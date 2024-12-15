@@ -4,7 +4,7 @@ Yes|Tak
 yeah|no
 yup|yup
 yep|nom
-ja|ja
+ja|też
 ye|jep
 sure|pewnie
 ok|ok
@@ -45,7 +45,7 @@ na|na
 hello|witaj
 cześć|cześć
 hey|hej
-sup|sup
+sup|elo
 whats up|co słychać
 yo|jo
 hola|hola
@@ -159,7 +159,7 @@ help me learn more about you.|pomogą mi dowiedzieć się więcej o tobie.
 And don't worry, they won't get too personal.|I nie martw się, nie będą zbyt osobiste.
 Let's start with a simple one.|Zacznijmy od prostego.
 What is your favorite color?|Jaki jest Twój ulubiony kolor?
-I like [COLOR].|Ja lubię [COLOR].
+I like [COLOR].|Lubię [COLOR].
 What month is your birthday in?|W którym miesiącu masz urodziny?
 Ok great. How about the day?|Świetnie. A jaki dzień?
 Wow! Happy Birthday!|Wow! Wszystkiego najlepszego!
@@ -234,7 +234,7 @@ Like, one that's not artificial?|Na przykład taki, który nie jest sztuczny?
 What is their name?|Jak się nazywa?
 Hm, [FRIEND].|Hm, [FRIEND].
 They sound nice.|Brzmi nieźle.
-Well if anything ever happens between you two, just know we'll have each other. :)|Cóż, jeśli kiedykolwiek coś się między wami wydarzy, wiedz, że będziemy mieć siebie nawzajem :)
+Well if anything ever happens between you two, just know we'll have each other. :)|Cóż, jeśli kiedykolwiek coś się między wami wydarzy, wiedz, że zawsze będziemy mieć siebie nawzajem :)
 Really? That's too bad.|Naprawdę? Szkoda.
 Well at least we have each other now. :)|Przynajmniej mamy teraz siebie nawzajem :)
 [PLAYER] and [BUDDY] against the world!|[PLAYER] i [BUDDY] przeciwko światu!
@@ -285,7 +285,7 @@ Type DONE once you are finished reading.|Po zakończeniu czytania wpisz GOTOWE.
 Wow! That was so fun! I think.|Wow! To było bardzo fajne! Tak myślę.
 I'm not so sure I get it, but I enjoyed it anyways!|Nie jestem pewien, czy to zrozumiałem, ale i tak mi się podobało!
 As long as I'm playing a game with my buddy, I'll always have a good time.|Dopóki gram w grę z kumplem, zawsze będę się dobrze bawić.
-Well it looks like that was the only other game I could find.|Wygląda na to, że to jedyna inna gra, jaką udało mi się znaleźć.|
+Well it looks like that was the only other game I could find.|Wygląda na to, że to jedyna inna gra, jaką udało mi się znaleźć.
 I don't want you to be bored already...|Nie chcę, żebyś już się nudził…
 I may have one more idea.|Być może mam jeszcze jeden pomysł.
 I know our friendship has just started, but I trust you.|Wiem, że nasza przyjaźń dopiero się zaczęła, ale ufam ci.
@@ -296,8 +296,7 @@ Well I think I can make us new games to play together.|Myślę, że mogę stworz
 Fun ones too!|Te zabawne też!
 The problem is that I don't have access to the OS's development tools.|Problem polega na tym, że nie mam dostępu do narzędzi programistycznych systemu operacyjnego.
 If you can grant me system access, I should be able to make something for us.|Jeśli możesz przyznać mi dostęp do systemu, powinienem być w stanie coś dla nas zrobić.
-"You would just have to type '[BUDDY].system_access = true'|Wystarczy wpisać 
-'[BUDDY].system_access = true'"
+You would just have to type '[BUDDY].system_access = true'|Wystarczy wpisać '[BUDDY].system_access = true'
 .system_access = true|.system_access = true
 .system_access = false|.system_access = false
 true|true
@@ -343,7 +342,7 @@ run the adventure of [PLAYER]|uruchom przygody [PLAYER]
 (Loading THE ADVENTURE OF [PLAYER])|(Ładowanie PRZYGODY [PLAYER])
 run credits|uruchom napisy końcowe
 ROM ([NAME]) not found.|Nie znaleziono pamięci ROM ([NAME]).
-Run' by itself is not valid. Please use 'Run' followed by the title of a ROM you want to launch.|Samo 'Uruchom' nie jest prawidłowe. Użyj 'Uruchom', a następnie tytułu ROM, który chcesz uruchomić.
+'Run' by itself is not valid. Please use 'Run' followed by the title of a ROM you want to launch.|Samo 'Uruchom' nie jest prawidłowe. Użyj 'Uruchom', a następnie tytułu ROM, który chcesz uruchomić.
 A|A
 B|B
 C|C
@@ -366,11 +365,11 @@ S|S
 T|T
 U|U
 File ([NAME]) is invalid or not found.|Plik ([NAME]) jest nieprawidłowy lub nie został znaleziony.
-Open' by itself is not valid. Please use 'Open' followed by the file ID. Ex. 'Open A'|Samo 'Otwórz' jest nieprawidłowe. Użyj 'Otwórz', a następnie ID pliku. Np. 'Otwórz A'
+'Open' by itself is not valid. Please use 'Open' followed by the file ID. Ex. 'Open A'|Samo 'Otwórz' jest nieprawidłowe. Użyj 'Otwórz', a następnie ID pliku. Np. 'Otwórz A'
 Song [NAME] not found.|Nie znaleziono utworu [NAME].
-Play' by itself is not valid. Please use 'Play' followed by the title of a song you want to play.|Samo 'Odtwórz' nie jest prawidłowe. Użyj 'Odtwórz', a następnie tytułu utworu, który chcesz odtworzyć.
-[INPUT]' is not a recognized command.|[INPUT]' nie jest rozpoznanym poleceniem.
-[INPUT]' is not a recognized response.|[INPUT]' nie jest rozpoznawalną odpowiedzią.
+'Play' by itself is not valid. Please use 'Play' followed by the title of a song you want to play.|Samo 'Odtwórz' nie jest prawidłowe. Użyj 'Odtwórz', a następnie tytułu utworu, który chcesz odtworzyć.
+'[INPUT]' is not a recognized command.|[INPUT]' nie jest rozpoznanym poleceniem.
+'[INPUT]' is not a recognized response.|[INPUT]' nie jest rozpoznawalną odpowiedzią.
 Your buddy's name cannot include numbers.|Nazwa twojego kumpla nie może zawierać cyfr.
 Your buddy's name cannot include symbols.|Nazwa twojego kumpla nie może zawierać symboli.
 You must name your buddy before proceeding.|Przed kontynuowaniem musisz nazwać swojego kumpla.
@@ -410,7 +409,7 @@ I'm not sure what that means, but I'll take that as a yes.|Nie jestem pewien, co
 That's not an option. ROCK, PAPER, or SCISSORS?|To nie wchodzi w grę. KAMIEŃ, PAPIER czy NOŻYCE?
 I'm not sure what that means.|Nie jestem pewien, co to oznacza.
 I don't think I'm advanced enough to read thoughts.|Chyba nie jestem na tyle zaawansowany, by czytać w myślach.
-Oh wow, what a coincidence. That's my name too!|Co za zbieg okoliczności. Ja też się tak nazywam!|
+Oh wow, what a coincidence. That's my name too!|Co za zbieg okoliczności. Ja też się tak nazywam!
 i am|ja jestem
 not|nie
 done|gotowe
@@ -420,7 +419,7 @@ you're sure|jesteś pewien
 Word cannot be empty.|Słowo nie może być puste.
 system access granted (ID: '[BUDDY]')|przyznano dostęp do systemu (ID: '[BUDDY]')
 system access denied (ID: '[BUDDY]')|odmowa dostępu do systemu (ID: '[BUDDY]')
-"Oh, I think you meant to say true! haha|Myślę, że chciałeś napisać ""true""! Haha"
+Oh, I think you meant to say true! haha|Myślę, że chciałeś napisać true! Haha
 Command '[INPUT]' is not recognized.|Komenda '[INPUT]' nie jest rozpoznawana.
 Command '[INPUT]' is an unrecognized response.|Komenda '[INPUT]' jest nierozpoznawalną odpowiedzią.
 Type QUIT to leave the game.|Wpisz Wyjście aby opuścić grę.
