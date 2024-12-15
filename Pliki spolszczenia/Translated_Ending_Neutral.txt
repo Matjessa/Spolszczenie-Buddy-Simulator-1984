@@ -1,0 +1,17 @@
+>uninstall the adventure of [PLAYER]
+
+You are about to remove [The Adventure of [PLAYER]]
+	Previously known names:
+	[Buddy Simulator 1984]
+
+[CRITICAL WARNING: ID [BUDDY] IS DEPENDENT ON THIS APPLICATION]
+
+Are you sure you would like to uninstall [The Adventure of [PLAYER]]?
+>yes
+
+Please type admin password to confirm:
+[WARNING: THIS ACTION CANNOT BE UNDONE]
+
+>myfriendmilo
+
+BEGINNING REMOVAL OF [The Adventure of [PLAYER]]

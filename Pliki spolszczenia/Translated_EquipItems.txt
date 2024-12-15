@@ -1,0 +1,145 @@
+None
+
+Extremely Nice Letter
+The paper looks blank, awaiting your words to give it life.
+If equipped, all enemies will take an instant (+8) damage at start of battle. Lose Extremely Nice Letter on use.
+
+Sarah's Running Shoes
+These belonged to an old friend who loved to run.
+Chance to negate half of the damage taken when hit.
+
+Pristine Apple
+An apple a day keeps the monsters away. You are thankful to whoever was in the well for giving you this.
+All party members heal (+2) at the start of their turn.
+
+Dead Gwandma
+She's still pretty dead, but her presence inspires you.
+Boosts your max Friendship Points by (+20).
+
+Flask of Unlimited Apple Juice
+This magic flask never runs out of pure, savory apple juice. The nectar of the gods.
+During your defense, heal for (+2) for every attack you perfectly block.
+
+Battle Axe
+This is a really sharp battle axe. I see some dried blood on it if you want a taste.
+Chance to reflect (+2) damage when attacked.
+
+The Dodecahedron
+Its shape is so advanced that there would be no physical way to show its true form. Just know that it has twelve faces.
+Your attacks do (+12) damage per status effect on this character.
+
+Coin
+Deep scratches and corrosion have eaten away at most of this coin, but it is still quite a relic! Maybe you can make a wish with it.
+Every party member gets (+2) damage per basic attack.
+
+Severed Tongue
+A human tongue. Rad!
+While equipped, you can store up to (4) compliments.
+
+Picture
+A picture of [ANIMAL NAME]. It's not as cool anymore.
+It does nothing.
+
+[BUDDY]'s Breakfast
+The most nutritious and beautifully baked meal made by your best buddy.
+Slightly extends the duration of your block.
+
+Spoiled Breakfast
+A gross but intriguing meal full of maggots and broken dreams.
+Gain the 'Stinky' debuff when entering combat.
+
+The Thing
+It is still as gross as you remember. You don't really want to equip it because it makes you feel like a terrible person.
+You start every battle with the 'Emotional Barrier' buff.
+
+The Very Berry
+This is a Very Berry, last one of its kind. It holds the immense and dangerous power to make anyone who tastes it feel a bit happier.
+You start with the 'Positive Attitude' buff at the start of combat.
+
+Badge of Ultimate Friendship
+This badge can only be worn by the most prestigious of friends. Everyone that sees it knows you mean friendly business.
+Chance to apply the 'Butterflies' debuff to a random enemy at the start of combat.
+
+Glass of Water
+You're surprised to see it stand so perfectly in your bag. Even when you're moving, the water stays placid. Could it be magic water?
+This is just plain water, but it will boost your max Friendship Points by (+10).
+
+Pinecone
+This pinecone looks suspicious. Almost like it knows too much. This sentient pinecone gives its holder the power to cheat death.
+When your Friendship Meter hits 0, instantly boost back up to full. Lose Pinecone on use.
+
+Oats
+You kept these? They are made special for Botley, but I guess you can have them.
+Chance to apply the 'Unconditional Love' effect to a random enemy at the start of combat.
+
+Toot's Tonic
+Kept one for yourself, huh? I'm sure Toot won't mind!
+Chance to apply the 'Dumb & Dizzy' debuff to a random enemy at the start of combat.
+
+Beat Bomb
+This bomb explodes into a thousand shrieking notes. It sounds awful and usually leads to bleeding ears.
+If a party member leaves with this equipped, deal (+20) damage to your attacker. Lose Beat Bomb on use.
+
+A Cool Hat
+Enemies admire your cool hat and can't take their eyes off of it.
+You start with the 'Kudos' buff at the start of combat.
+
+A Stick with Extra Length
+This stick is extra long, so that makes it extra cool.
+While equipped, you will always attack first in battle.
+
+Lemon Pie of the Undead
+While the name can sound quite scary, the Lemon Pie of the Undead seems like an ordinary lemon pie. But this one whispers things to you.
+Your special attack's cooldown is reset at start of battle.
+
+Candle of Pure Loneliness
+This candle holds the power of pure and immense loneliness that will surely make anyone depressed.
+Chance to apply the 'Insecure' debuff to a random enemy at the start of combat.
+
+Gem of Confusing Perspective
+When peering inside the gem, different viewers might see different things. I see a wagon, though.
+Chance to apply the 'Existential Crisis' debuff to a random enemy at the start of combat.
+
+Larpo's Left Kidney
+It's still quite fresh. Larpo might want it back if you're willing to part with such a beautiful specimen.
+Extremely small chance to instantly befriend every enemy in combat. Yeah, it's that powerful.
+
+Questionable Black Belt
+Whether it be for karate or keeping your pants up, you can't deny how shady this Black Belt looks and feels.
+When Friendship Points drop below 10, the 'Emotional Barrier' buff is applied. Used only once per battle.
+
+The Helmet of 7 Spikes
+Upon further examination, the spikes looked poorly glued onto the cheaply made helmet. Still pretty rad!
+You start with the 'Muscle Memory' buff at the start of combat.
+
+Sa
+He is still just sitting in your bag, glaring at you with a calm smile.
+Deal (+5) damage with your basic attack, but deal (+1) damage to a random teammate.
+
+Can of Pears
+Aren't these Bean's pears? You kept them? Wow, you're kind of a monster. I hope he won't mind!
+Chance to apply the 'Awkward Silence' effect to a random enemy at the start of combat.
+
+Pear Cake
+You can tell it was made it with love and a whole lot of ripe, juicy pears!
+Damage performed is doubled, but damage taken is also doubled.
+
+Roller Skates
+These bad boys will make you the fastest person in town or your money back, guaranteed!
+Your entire party moves faster outside of combat when walking around.
+
+Umbrella
+From windy, rainy, and bloody storms, this umbrella has seen it all.
+You start with the 'Good Vibes' buff at the start of combat.
+
+Rubber Duck
+It squeaks! What a cool, little bath toy! 
+Whenever you befriend an enemy, heal for (+5) Friendship Points.
+
+Timmy Quick Figurine
+A small yet sturdy figurine of the speedy comic book character, Timmy Quick!
+Reduces total cooldown for special attack by 1.
+
+[RECIPE]
+Cauldron left it sitting in the sun all day to really ripen the flavor! Ignore the flies.
+Chance for REST to heal an extra (+5) Friendship Points.

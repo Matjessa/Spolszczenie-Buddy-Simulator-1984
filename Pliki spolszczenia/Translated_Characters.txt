@@ -1,0 +1,135 @@
+bean
+Bean Bash
+Bean's children rush towards their Dad, who proceeds to launch them at the enemy.
+Bean Mash
+Bean walks forward and calls in his ravenous children to attack in hoardes.
+
+france
+Eye See You
+France closes her eye and aggressively opens it in a deadly gaze to deal damage.
+All Seeing Eye
+France will look into the souls of her enemies. This will cause mental anguish and has the chance to apply the 'Existential Crisis' debuff.
+
+grin
+Wingman
+Grin is a great friend and an even better lover. He flirts with the enemy using his wonderful smile.
+Sweet Talk
+Grin will attempt to use one of his many pickup lines on the enemy.
+
+lloyd
+Poetry Slam
+Lloyd will practice poetry on his opponents and launch his words at the enemy.
+Dead Gwandma
+Lloyd boomerangs Dead Gwandma at his enemies. It has the chance to apply the 'Insecure' debuff and deals a small amount of damage.
+
+cauldron
+Splash Zone
+Cauldron wants to share his previous meal with his enemies as he shoots a boiling bubble from his pot. Small chance to apply the 'Butterflies' debuff on hit.
+Mystery Meal
+Cauldron has a selection of 6 different meals to try out on command. Sadly, he cooks so fast that there is no time to see what he makes! Each meal is a mystery.
+
+scroobert
+Head Cwush
+Scroobert rears his head back for a bone cwushing power move.
+I'm a Staw
+Scroobert is a star.
+
+rudy
+Rocket Arms
+Rudy hates anything that happens to his arms, but if it means saving you, he'll use them to smash your enemies!
+Anvil Rain
+Rudy launches anvils into the sky for them to come crashing down on his enemies, dealing massive damage.
+
+morton
+Move Me
+Morton rolls up to an enemy and slams his skateboard into their face.
+Kickflip
+Morton moves forward to perform a magical kickflip! This deals massive damage and has the chance to apply the 'Dumb and Dizzy' debuff.
+
+arbor
+Bubble Burst
+Arbor shoots a massive bubble at one enemy, because she forgot about the others. Chance to apply the 'Emotional Barrier' buff on hit.
+Bubble Blitz
+Arbor summons bubbles from below to surround her. Each bubble's letter must be held for them to pop.
+
+toot
+Spew Shot
+Toot angrily spews a stream of unknown liquid at all enemies for the chance to apply the 'Dumb & Dizzy' effect and deal damage.
+Cheers
+Toot will pour a cold one out for an ally and heal them. Cold Refresher also has a chance to refresh their special ability.
+
+phoney
+Cord Slap
+Phoney extends their phone cord to violently slap all enemies on the field.
+I Need a Favor
+Phoney calls Skewer in for a favor.
+
+dejo bravisa
+Tower of Tempo
+The band will prepare the best music warmup you’ve ever heard by throwing their instruments.
+Razor Rhythm
+Dejo Bravisa will attempt to shred the enemy team with rhythm and music. If played perfectly, the 'Kudos' buff applies to a random ally.
+
+friendo
+[PLAYER] sprints up to their foe and slams themselves into the ground, filling their enemies with cozy friendship.
+Love Tap
+[PLAYER] unleashes a devastating blow on a chosen enemy by walking up and kicking them with all of their might.
+Friendship Flurry
+[PLAYER] begins levitating and launches a flurry of magical projectiles at the enemy. Applies the 'Existential Crisis' debuff.
+Happy Thoughts
+Using the warmth of their heart, [PLAYER] begins healing all of their allies.
+
+I thought LOVE TAP would fit you since you're full of untamed power.
+It's a powerful attack that will surely break the bones of any friends we are trying to make!
+
+I thought FRIENDSHIP FLURRY would fit you since you're smart and calculated.
+It allows you to deal fast damage and apply an existential crisis to your foes!
+
+I thought HAPPY THOUGHTS would fit you since you carry a warm heart.
+It's a healing ability that will make sure your entire team stays happy in battle!
+
+REST
+
+[NAME1] ignored the [NAME2] debuff because they're so healthy!
+[NAME1] is feeling some GOOD VIBES right now!
+They will heal for a few turns.
+KUDOS to [NAME1] for being so talented!
+They will deal double damage on their next turn.
+[NAME1]'s brain has been filled with new MUSCLE MEMORY.
+All incoming damage is halved for them for a few turns.
+[NAME1] is feeling a bit healthier than normal.
+They are immune to all debuffs for a couple turns.
+[NAME1] is getting a little bit emotional and has grown an EMOTIONAL BARRIER.
+They will have temporary health for a couple turns.
+[NAME1] has developed a POSITIVE ATTITUDE during these tough times.
+Careful, they'll reflect damage for a couple turns.
+[NAME1] is having an EXISTENTIAL CRISIS!
+They might hurt themselves instead of attacking for a few turns.
+[NAME1] said a joke, but no one laughed. They have created an AWKWARD SILENCE.
+Their next turn will be skipped.
+[NAME1] has grown UNCONDITIONAL LOVE for [NAME2].
+[NAME1] will heal [NAME2] when attacking them for a few turns.
+[NAME1] starts to feel INSECURE in front their friends.
+They'll take more damage for a few turns. How embarrasing.
+BUTTERFLIES appear in [NAME1]'s stomach and are trying to eat their way out.
+They will now take damage for a few turns.
+[NAME1] is feeling a little DUMB AND DIZZY.
+Their attacks might miss for a few turns.
+[NAME1] is really STINKY and nobody wants to be near them.
+They will take damage when healed for a few turns.
+
+[NAME1] is no longer feeling GOOD VIBES!
+KUDOS has been removed from [NAME1] for being quite average.
+[NAME1]'s brain is feeling completely normal now.
+[NAME1] is no longer feeling DECENTLY HEALTHY.
+[NAME1] has buried their emotions. An EMOTIONAL BARRIER is no longer required.
+[NAME1] is no longer feeling positive about the situation.
+[NAME1] has successfully brushed off the thoughts about their own existance.
+[NAME1] finally said something funny. They are no longer feeling awkward. At least for now.
+[NAME1] is no longer in love with [NAME2]. No hard feelings.
+Someone gave [NAME1] a compliment and their insecurities have been temporarily cured.
+[NAME1]'s BUTTERFLIES have flown away.
+[NAME1] is no longer feeling DUMB AND DIZZY.
+[NAME1] finally took a shower. They are no longer STINKY.
+
+Would you like to give [NAME1] a compliment?

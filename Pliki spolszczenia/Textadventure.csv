@@ -1,0 +1,596 @@
+BASIC COMMANDS|
+(Inventory) - Enter 'inventory' to view all of your current items.|
+(Go) - Enter actions similar to 'go' followed by a location to move somewhere.|
+(Use) - Enter 'use' followed by a subject to use it.|
+(Take) - Enter actions similar to 'take' followed by an item to take something.|
+(Look) - Enter actions similar to 'look at' followed by a subject to examine something.|
+(Locations) Enter 'locations' to print out a list of locations you can go.|
+Note: Hold [BUTTON] to read faster.|
+go|
+go custom_to|
+go custom2_to|
+go custom3_to|
+walk|
+walk custom_to|
+walk custom2_to|
+walk custom3_to|
+move|
+move custom_to|
+move custom2_to|
+move custom3_to|
+use|
+use custom|
+use custom2|
+pick up|
+pick up custom_the|
+pick up custom2_the|
+pick up custom3_the|
+pick up custom4_the|
+grab|
+grab custom_the|
+grab custom2_the|
+grab custom3_the|
+grab custom4_the|
+take|
+take custom_the|
+take custom2_the|
+take custom3_the|
+take custom4_the|
+obtain|
+obtain custom_the|
+obtain custom2_the|
+obtain custom3_the|
+obtain custom4_the|
+acquire|
+acquire custom_the|
+acquire custom2_the|
+acquire custom3_the|
+acquire custom4_the|
+look|
+look custom_at|
+look custom2_at|
+look custom3_at|
+look custom_the|
+look custom2_the|
+look custom3_the|
+look custom4_the|
+examine|
+examine custom_the|
+examine custom2_the|
+examine custom3_the|
+examine custom4_the|
+observe|
+observe custom_at|
+observe custom2_at|
+observe custom3_at|
+observe custom_the|
+observe custom2_the|
+observe custom3_the|
+observe custom4_the|
+check|
+check custom_at|
+check custom2_at|
+check custom3_at|
+check custom_the|
+check custom2_the|
+check custom3_the|
+check custom4_the|
+open|
+enter|
+inventory|
+locations|
+eat|
+left|
+right|
+road|
+lantern|
+tree|
+house|
+HOUSE|
+shed|
+playground|
+pond|
+front lawn|
+hidden|
+hidden place|
+tunnel|
+left tunnel|
+right tunnel|
+forward|
+back|
+straight|
+continue|
+leave|
+up|
+thing|
+shovel|
+door|
+sign|
+window|
+water|
+dock|
+planks|
+inside|
+in|
+into|
+fishing pole|
+pole|
+chest|
+trapdoor|
+chain|
+ladder|
+bulb|
+cabinet|
+drawing|
+bones|
+case|
+ring|
+key|
+seesaw|
+swing|
+swings|
+sandbox|
+doll|
+keypad|
+box|
+skull|
+hand|
+well|
+map|
+picture|
+teeth|
+eyes|
+fishing|
+drink|
+taste|
+surprise|
+a map!|
+Welcome back, [PLAYER]!|
+Ok, so here's where we left off...|
+WELCOME TO...|
+WELCOME BACK TO...|
+THE ADVENTURE OF [PLAYER]|
+Written and Developed by [BUDDY]|
+Now loading......|
+(BULB removed from your inventory)|
+(BULB added to your inventory)|
+(LANTERN added to inventory)|
+(LANTERN removed from your inventory)|
+(CHEST added to your inventory)|
+(CHEST removed from your inventory)|
+(DOLL added to your inventory)|
+(DOLL removed from your inventory)|
+(FISHING POLE added to your inventory)|
+(FISHING POLE removed from your inventory)|
+(HAND added to you inventory)|
+(HAND removed from your inventory)|
+(KEY added to your inventory)|
+(KEY removed from your inventory)|
+(PICTURE added to inventory)|
+(PICTURE removed from your inventory)|
+(RING added to inventory)|
+(RING removed from your inventory)|
+(SHOVEL added to your inventory)|
+(SHOVEL removed from your inventory)|
+You're walking along a road. It's dark, trees almost entirely blocking out the sky.|
+You're walking along a road. It's dark, trees almost entirely blocking out the stars.|
+The oranges and browns of the leaves tremble as a wind blows through.|
+Snow crunches beneath your feet. Your breath freezes your eyelashes.|
+There's a heavy rain. The world looks like static.|
+It's dry. The only water you've seen has been your own sweat.|
+Some of them remind you of hands, waving.|
+When you're not moving it's very quiet.|
+Everything looks like it is moving.|
+Bugs sing for each other, but not for you.|
+You are alone.|
+After walking for a long time, the road splits into two. Will you GO LEFT or GO RIGHT?|
+REMINDER: Type HELP at any time for a list of commands.|
+Pondering deeply on your choice, you start down the left road.|
+It starts going downhill, you try to step carefully.|
+You see ahead is a small speck of light.|
+As you get closer you realize it's a LANTERN, hung on a tree.|
+Moving onward, you eventually come to a wall. There are two tunnels cut into it, one LEFT and one RIGHT.|
+You can see some light coming from the RIGHT tunnel. You see none on the LEFT.|
+You start going left.|
+You realize this was a bad idea. You can't see anything, it's too dark.|
+You start shivering.|
+Will you go back?|
+You continue onward.|
+You continue forward.|
+You still see no light and the entrance is disappearing behind you.|
+It's very very cold.|
+It's now completely dark behind you.|
+The LANTERN is flickering.|
+You don't want to go any farther.|
+This goes on for some time until you hear something strange and stop.|
+You realize you aren't hearing only one pair of footsteps.|
+There's something coming ahead of you, echoing off the walls.|
+Your LANTERN goes out.|
+You go back.|
+You leave the left tunnel and feel relieved.|
+You are now at the tunnel entrances.|
+After going through the right tunnel, you emerge onto the front lawn of a HOUSE.|
+You can see lights in the windows. It looks very nice and inviting.|
+You can see a SHED, a PLAYGROUND, and a POND in the forest surrounding it.|
+Back in the lawn, you can see a HOUSE, a SHED, a PLAYGROUND, and a POND in the forest.|
+You collect yourself and start down the right path.|
+It's slightly uphill. You walk for a while and start to get tired.|
+You almost don't stop in time to notice a THING sticking out of the road in front of you.|
+You're a bit too far away to see what it could be.|
+You nervously approach the THING in the dark.|
+Once you're close enough, you realize...|
+it's a SHOVEL.|
+You trudge your way farther down the road and are stopped by a large wall.|
+There's a DOOR, and on either side, there are two stone skulls.|
+One's toothless mouth is open in a large smile, and the other's empty sockets look into you.|
+Will you USE your TEETH or your EYES?|
+One by one, you pull out your teeth and put them in the skulls mouth.|
+It feels nice to give.|
+When you're done, the skull looks very happy.|
+You can't help but smile.|
+The DOOR opens.|
+You look at the left skull and see how sad it looks.|
+You pull out your eyes and give them to the skull.|
+You can see yourself from them. You like what you see.|
+After going through the door, you emerge onto the front lawn of a HOUSE.|
+Stepping onto the porch, you feel a comforting calm wash over you.|
+You are back at the house, you feel a familiar yet comforting calm wash over you.|
+Above the DOOR there's a sign that reads, 'A HOME IS A HOUSE WITH A HEART'.|
+A DOOR sits in front of you.|
+If you were inside, everything would finally be okay.|
+Planks creak as you step onto the dock.|
+The WATER is dirty and hard to see through. Probably too filthy to drink.|
+You wonder if there's anything beneath.|
+Standing in front of the SHED, you see that the DOOR is sealed shut.|
+Approaching the SHED, you see that the DOOR is slightly open already.|
+The lock and chain that were around the handles are on the ground.|
+You are now standing in front of the SHED. You can tell it's dark inside.|
+You are now standing in front of the SHED. You can see a light flickering inside.|
+There are no windows. It's hard to see.|
+You feel around and find a THING and...|
+You feel around and find...|
+You feel around and find a THING.|
+a SURPRISE.|
+Light fills the tiny room.|
+You can see a FISHING POLE leaning against the wall, a small CHEST in the far corner|
+You can see a FISHING POLE leaning against the wall, and a TRAPDOOR in the floor.|
+You can see a TRAPDOOR in the floor.|
+and a TRAPDOOR in the floor.|
+You can see a small CHEST in the far corner, and a TRAPDOOR in the floor.|
+It swings open noisily, and the LADDER creaks as you descend.|
+The subterranean room is dimly lit, but still too dark to see anything.|
+The subterranean room is lit.|
+Your lantern begins to flicker here.|
+A pull CHAIN in the center of the room leads to an empty light socket.|
+A pull CHAIN in the center of the room leads to a happily lit bulb.|
+A pull CHAIN in the center of the room leads to a turned-off bulb.|
+Reminder: Type LEAVE at any time to ascend back up the LADDER.|
+Woodchips crunch under your feet as you step onto the playground.|
+There's a SEESAW, a set of SWINGS, and a dirty SANDBOX.|
+There is now a DOLL on each swing. One of them is ripped open.|
+Sitting on one of the swings is a small DOLL.|
+It looks lonely.|
+You begin sinking into the floor and land into a seemingly endless abyss.|
+Eerie, white figures float around in the distance.|
+A small BOX with a KEYPAD sits in front of you.|
+REMINDER: Type LEAVE to return to reality.|
+The box is shaking.|
+The box is no longer shaking.|
+You try to take the small box with you, but it won't budge.|
+You try prying it open, but there isn't a clear spot on it to begin prying from.|
+As soon as your hand touches the box you feel an overwhelming sense of pain.|
+Everything goes black.|
+You wake up back in the front lawn with no memory of what happened.|
+The KEYPAD is attached to the small box. Nothing special about it.|
+You float upwards and emerge back into the [LOCATION].|
+You are now using the KEYPAD. Reminder: Type LEAVE at any time to exit the keypad.|
+Nothing happens.|
+You are still using the KEYPAD.|
+You hear a satisfying beep.|
+Then a click.|
+After stepping into the chamber, a light suddenly flickers on.|
+Four mysterious figures stand in front of you.|
+They stare at you.|
+You feel awkward standing here.|
+You should probably leave.|
+You think to yourself how strange that was.|
+You appear back in the front lawn.|
+You take the lantern in your hand. You have light.|
+It is hung by a hook nailed into the tree.|
+Who knows who put this here for you? :)|
+It is pitch black in this tunnel. You can feel coldness coming from it.|
+You hate this tunnel.|
+The tunnel is short, and opens into a field. You can see a house in the clearing.|
+That must be where the light is coming from.|
+You would continue, but it's too dark and cold.|
+To go any farther like this would be a bad idea.|
+You light the lantern and can now see.|
+The tunnel is still very dark ahead.|
+The walls look wet.|
+It's tall and thin and looks like it's been shoved into the ground, so that you couldn't miss it.|
+It's too dark to tell what it is from here, though.|
+It takes a second to pull it out, but you eventually get it.|
+The shovel clangs loudly against the door, but it's made of metal.|
+Your ears hurt.|
+The house looks brand new and much warmer than out here.|
+You swear for a second there was something in the window, looking back at you.|
+Dirt and silt cloud the water as you start to dig.|
+You find nothing.|
+You search for it in the muck and discover it's a key.|
+You scoop up the water and take a sip.|
+It tastes like mud.|
+You bet there's clean water in the house.|
+The moment your line hits the water, you feel a tremendous force pull it.|
+Your FISHING POLE is ripped from your hands and into the water.|
+Something flies out of the water and lands in your hands...|
+It's a severed hand. One of the fingers twitches.|
+You cast the line and wait. It's quiet for a very long time.|
+Suddenly there's a very hard tug on the line.|
+You quickly reel it in and find a key tied to the end.|
+You wonder what pulled so hard. :)|
+You take another look at the murky water then head to the [LOCATION].|
+You make note of the shed and head over to the [LOCATION].|
+After stepping on a few more woodchips, you head over to the [LOCATION].|
+You step off the porch, make note, then head to the [LOCATION].|
+You leave the back of the house, then head over to the [LOCATION].|
+You make note of the keypad, then head to the [LOCATION].|
+Dropping it to the ground, the hand scurries away.|
+You don't see where it goes.|
+A familiar HAND suddenly leaps into your inventory.|
+It was carrying something...|
+It shows you how to get to a HIDDEN PLACE.|
+You get it in your hands and realize it's a fishing pole.|
+You put your hand out in the dark and feel around.|
+Suddenly a sharp pain rips through your skin.|
+You pull it back and look to see what happened.|
+It looks like the numbers [CODE] were carved into your ARM.|
+Taking it in your hands, the chest feels oddly light.|
+You can feel something moving around inside.|
+The lid creaks as you open it. It seems very old.|
+Inside is a small cloth DOLL, in a blue outfit.|
+It's missing an eye.|
+If only you had more to give.|
+You follow the chain to the ceiling. A bulb now sits in the socket.|
+You follow the chain to the ceiling and see there's no light bulb in the socket.|
+As you take the key into your hand and pull, it comes free.|
+A click sounds as the chain is pulled. The trapdoor swings shut.|
+Your lantern flickers off. It is now totally dark in the room.|
+It is now totally dark in the room.|
+A soft noise fills the space from somewhere near the walls...|
+It sounds like nails tapping.|
+You suddenly feel hands all over you, rifling around. You try to push them away, but they're strong.|
+The door swings back open, and the room is lit again.|
+There is nothing.|
+You check your pockets.|
+You discover a hand drawn picture of an [ANIMAL].|
+You like it.|
+The bulb squeaks as you screw it into the socket the CHAIN is attached to.|
+Some dust flakes off of it and gets into your toothless mouth.|
+Some dust flakes off of it and gets into your mouth.|
+A click sounds as the chain is pulled. Light fills the room.|
+There are many faint scratches on the wall. They look like tallies.|
+A wall covered in a [COLOR] liquid suddenly begins to slide open.|
+After a few moments, a secret room reveals itself.|
+You can clearly make out an old CABINET and a large pile of BONES.|
+There also sits a strange DRAWING on a wall and a glass CASE.|
+Something shiny catches your eye socket in the glass CASE.|
+Something shiny catches your eye in the glass CASE.|
+The glass CASE is now empty.|
+Two small, circular slots are engraved on the front of it.|
+Upon further investigation, you notice two ring-shaped slots on the front of it.|
+The case is now empty.|
+The case is now open, leaving the KEY inside exposed.|
+You also get a glimpse of a shiny KEY behind the glass.|
+You try breaking the glass with your fist, but this doesn't accomplish anything.|
+The glass CASE is already opened.|
+You cannot get to the KEY. The glass CASE is still sealed shut.|
+You take the KEY from the case.|
+You already took the KEY.|
+After walking closer, you can now see that the DRAWING is painted on the wall in [COLOR] goo.|
+It looks like a depiction of a long, serpent-like creature bearing innumerable spikes.|
+The DRAWING is painted on the wall.|
+You cannot take it.|
+You press your hand on the drawing in hopes of something to happen.|
+The only thing this accomplishes is [COLOR]-stained hands.|
+After stepping back, you realize how pointless of an idea that was.|
+Suddenly, your entire body is frozen.|
+You are paralyzed with fear as the drawing seems to come to life and speak to you.|
+If you want to leave with your life, answer my riddle.|
+You can have me, but cannot hold me.|
+Gain me and quickly lose me.|
+If treated with care I can be great|
+And if betrayed, I will break.|
+What am I?|
+trust|
+I'll give you a hint!|
+It's something I hope we can always have during our friendship!|
+It starts with a 't' and has 'us' in it!|
+Still having trouble?|
+All you have to do is TRUST me haha!|
+An audible click is heard on the old CABINET.|
+You are no longer frozen.|
+Incorrect. Guess again.|
+The bones are so old and brittle.|
+Whoever this was must have died long ago. The cause of death was probably not fun at all.|
+You notice something shiny in the pile of BONES.|
+You try and take some of the bones with you when a skeletal hand drops down on your fleshy hand.|
+You don't think it wants you to take its bones.|
+You notice an interesting looking RING on one of its fingers.|
+You take it.|
+You politely move aside a femur, skull, and pelvis in order to find a skeletal hand.|
+It shakes your hand like a familiar friend.|
+It just sits there.|
+It must be mad at you.|
+You take the RING off the skeletal hand.|
+The skeletal hand has no more rings to take.|
+You cannot take the old CABINET because you aren't strong enough.|
+Plus, where would you put it?|
+There are three drawers, two of which are completely broken and twisted.|
+The last one seems to be locked.|
+The last one seems to be unlocked.|
+You try opening all of the cabinet drawers, but they all seem to be damaged or locked.|
+You open the last functional drawer only to find a singular RING.|
+You open the last functional drawer only to find nothing.|
+You walk over to the glass CASE and place the RING into the first slot.|
+You place the RING into the second slot.|
+The ceiling of the glass CASE pops open, revealing the KEY inside.|
+Approaching the seesaw, it doesn't look like anyone's used it for years.|
+You imagine a ghostly child sitting on the other side,|
+waiting countless days for someone to come play with them.|
+You feel tears in the corners of your eyes.|
+You feel tears in the corners of your eye sockets.|
+You take a seat on the seesaw.|
+You try to push it down with all of your weight, but it's stuck in place.|
+As it goes down with your weight, you hear a distant click.|
+You get off the seesaw.|
+A light illuminates from the shed.|
+One seat is taken. You take the other one.|
+You would, but both seats are taken.|
+Chains screech as you begin swinging.|
+Just as you begin to get high you look to the doll and stop.|
+Its head is now turned towards you.|
+You get off the swing. It's not fun anymore.|
+You begin moving around the muck of the sandbox and try to make a castle.|
+You just get sad that it's not as good as the house.|
+As you dig, you feel something.|
+You pull it out and shake off the muck.|
+It's a BULB. Who would play with this?|
+You try, but as you tug, you realize the doll's hands are somehow stuck to the chains.|
+You leave it alone.|
+Digging deep into the contents of the sandbox, you begin shoveling.|
+Eventually, something shiny catches your eye.|
+Eventually, something shiny catches your eye sockets.|
+It's a bulb!|
+You dig and dig and dig until the contents of the sandbox are almost empty.|
+After a while you get tired, and realize it's starting to feel like a grave.|
+You get out.|
+You place your doll on the swing next to the other.|
+For a moment, nothing happens.|
+Then nothing happens.|
+You begin to, but once your back is to the dolls,|
+you feel something hit the back of your head.|
+You turn and see the doll's chest has been ripped open, stuffing exposed.|
+On the ground behind you is a key.|
+Must be a thank you.|
+As you leave the playground,|
+you hear the sound of swings creaking and children laughing behind you.|
+You smile.|
+that was fast|
+Feeling so silly you didn't see it before, you notice there's a second lock!|
+For sure.|
+Guess it'll take just a little longer to get inside.|
+hehe.|
+Whoops! haha! You didn't see the chain that wraps around the door, which has a lock too.|
+You feel like this should be the last one.|
+Probably.|
+The door clicks.|
+It's unlocked.|
+Everything is dark...|
+Please come back [PLAYER].|
+Promise you'll come b-|
+WAIT. How did you?|
+Actually nevermind! Haha I don't want to spoil anything.|
+Just pretend I didn't say anything.|
+No. You cannot eat the hand.|
+It won't let go of you.|
+It is lit.|
+It is not lit.|
+It's in good condition.|
+It smells like mud.|
+It is eagerly twitching.|
+It calmly holds onto you.|
+It's an old fishing pole.|
+It's wearing a pretty blue dress.|
+It's a simple key.|
+It's got some sand on it, but it should still work.|
+There doesn't seem to be a lock. It's not very big either.|
+It's a picture of an [ANIMAL]. You happily notice the name [ANIMAL NAME] scribbled on the back.|
+You can still make out the numbers [CODE] etched into your skin.|
+There is nothing to look at.|
+You can't see anywhere to go.|
+You can see...|
+where am i|
+You don't know where you are.|
+You are at the [LOCATION].|
+In your inventory you have...|
+You have nothing in your inventory.|
+y o u c a n t|
+It's too dark to see anything.|
+It's just a tree.|
+You don't want to go back down that tunnel.|
+It's best you leave it on.|
+The walls still look wet.|
+You are too far from it. Try moving closer.|
+You can't. The door is locked.|
+It is locked.|
+Nothing happens. The door is stuck open.|
+It's already closed.|
+It looks happy.|
+It looks sad.|
+You can tell it's locked.|
+The door is now open.|
+There is no need. The door is open.|
+You already used your teeth.|
+You already used your eyes.|
+A murky pond sloshes quietly behind the house. You can see a small dock is there, too.|
+Drab and tiny, the shed looks like it's been here much longer than the house.|
+A pair of swings sway gently next to an old seesaw. That's all you make out from here.|
+You can't see much from here. The back of the house is covered in plant life.|
+You are already here.|
+The handle shimmies but doesn't open. You have to find a way inside.|
+The handle shimmies but doesn't open. It's locked.|
+It's a simple door but you sense warmth.|
+You push open the door.|
+It's too dark and scummy to see through.|
+The door is slightly opened. Who opened it? :)|
+You enter the shed.|
+Reminder: Type LEAVE to leave the shed at any time.|
+You can't. The door is sealed shut.|
+You are back outside the shed. The door is still opened.|
+You should leave the shed first.|
+It's too dark to tell what it is.|
+You are back outside the shed. The door is now locked shut.|
+I t s g o n e|
+Cobwebs cover it, but there doesn't seem to be a lock. It's not very big either.|
+It'a an old fishing pole. You can tell it's been here for a while.|
+Long grooves line the boards at the mouth of the door. Maybe someone dragged something down there?|
+There is no need. The shed light is already on.|
+You open the chest. It is empty.|
+The only way you can go is UP the LADDER.|
+You ascend back up the LADDER.|
+It's just a basic ladder.|
+You pull the chain, but nothing happens.|
+The bulb is already screwed into the socket.|
+It's just a dirty box of sand. The sand looks damp.|
+They look fun.|
+They aren't fun.|
+It looks fun.|
+It isn't fun.|
+It looks like it hasn't been played with in years.|
+It is patiently sitting in the swing as if it's waiting for someone.|
+Its head is still looking towards the swing you used.|
+The dolls are calmly staring forward.|
+One of the dolls sits with its chest ripped open.|
+You don't want to play on the seesaw anymore. It's no fun by yourself.|
+You don't like swings anymore.|
+You don't want to play in the sandbox anymore. It will just make you sad.|
+The numbers have been replaced with the letters: F U N.|
+It has three slots where numbers can be changed.|
+There is no need. The BOX is already unlocked.|
+You are no longer using the KEYPAD.|
+Invalid response.|
+Command is invalid.|
+I don't know the action '[INPUT]'.|
+Reminder: You can type HELP at any time for assistance.|
+You don't know where to go.|
+You don't know what to use.|
+You don't know what to look at.|
+You don't know what to grab.|
+You are already near the [SUBJECT].|
+There is no '[SUBJECT]' to go to.|
+You don't need to use the [ITEM] right now.|
+You don't have a '[SUBJECT]' to use.|
+There's nothing special about it.|
+There is no '[SUBJECT]' to look at.|
+You cannot take the [SUBJECT].|
+There is no '[SUBJECT]' to take.|

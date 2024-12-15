@@ -1,0 +1,479 @@
+y|t
+yes|tak
+Yes|Tak
+yeah|no
+yup|yup
+yep|nom
+ja|ja
+ye|jep
+sure|pewnie
+ok|ok
+okay|okej
+alright|w porządku
+fine|dobrze
+yea|zaiste
+duh|ba
+obviously|oczywiście
+alrighty|w porządku
+i guess|tak myślę
+kinda|poniekąd
+kind of|trochę
+totally|całkowicie
+fo sho|z pewnością
+roger|przyjąłem
+yiss|taak
+probably|pewnie
+of course|oczywiście
+ya|ta
+yas|yes
+you bet|zakład
+okey|Okej
+uh huh|uh huh
+absolutely|absolutnie
+poggers|poggers
+n|n
+no|nie
+No|Nie
+nope|nope
+nein|nein
+nah|nah
+not really|nie bardzo
+naw|nje
+negative|negatywnie
+nuh uh|nuh uh
+na|na
+hello|witaj
+cześć|cześć
+hey|hej
+sup|sup
+whats up|co słychać
+yo|jo
+hola|hola
+heyo|hejo
+hiya|siema
+howdy|siemanko
+greetings|serwus
+ayo|ayo
+wassup|jak leci
+whats poppin|co jest
+red|czerwony
+blue|niebieski
+green|zielony
+yellow|żółty
+orange|pomarańczowy
+purple|fioletowy
+pink|różowy
+black|czarny
+white|biały
+brown|brązowy
+gray|szary
+teal|turkusowy
+indigo|indygo
+silver|srebrny
+aquamarine|akwamaryna
+rose|róż
+gold|złoty
+maroon|bordowy
+violet|fiolet
+burgundy|bordowy
+aqua|morski
+auburn|kasztanowy
+bronze|brązowy
+cyan|cyjanowy
+crimson|karmazynowy
+mint|miętowy
+mustard|musztardowy
+olive|oliwkowy
+sapphire|szafirowy
+vermillion|cynobrowy
+january|styczeń
+february|luty
+march|marzec
+april|kwiecień
+may|maj
+june|czerwiec
+july|lipiec
+august|sierpień
+september|wrzesień
+october|październik
+november|listopad
+december|grudzień
+spring|wiosna
+summer|lato
+fall|jesień
+autumn|jesień
+winter|zima
+rock|kamień
+paper|papier
+scissors|nożyce
+help|pomoc
+view|przeglądaj
+roms|romy
+songs|utwory
+run|uruchom
+buddy|buddy
+simulator|simulator
+play|odtwórz
+open|otwórz
+reset|reset
+quit|wyjście
+continue|kontynuuj
+Ok bye!|Ok, na razie!
+Ok bye [PLAYER]!|Ok, na razie [PLAYER]!
+Come back soon! :)|Wróć wkrótce! :)
+Now loading|Ładowanie
+Oh, welcome back, [PLAYER]!|Witaj z powrotem, [PLAYER]!
+Let's see, where did we leave off?|Zobaczmy, gdzie skończyliśmy?
+Oh right!|No tak!
+Loading THE ADVENTURE OF [PLAYER]|Ładowanie PRZYGODY [PLAYER]
+RESTARTING SYSTEM MEMORY|RESTART PAMIĘCI SYSTEMOWEJ
+Anekom Official OS (Version [NUMBER])|Oficjalny system operacyjny Anekom (wersja [NUMBER])
+(c)1982 Anekom Software Inc. All rights reserved.|(c)1982 Anekom Software Inc. Wszelkie prawa zastrzeżone.
+NEW SONG IS NOW AVAILABLE.|NOWY UTWÓR JEST JUŻ DOSTĘPNY.
+Enter HELP for more assistance.|Aby uzyskać pomoc, wpisz POMOC.
+SYSTEM WARNING: Input has been overridden by (ID: [BUDDY])|OSTRZEŻENIE SYSTEMOWE: Wejście zostało zastąpione przez (ID: [BUDDY])
+WELCOME TO...|WITAMY W…
+WELCOME BACK TO...|WITAMY PONOWNIE W…
+Buddy Simulator 1984 (Version 4.2.199)|Buddy Simulator 1984 (wersja 4.2.199)
+GREETINGS NEW USER!|WITAJ NOWY UŻYTKOWNIKU!
+Thank you for installing BUDDY SIMULATOR 1984!|Dziękujemy za zainstalowanie BUDDY SIMULATOR 1984!
+Buddy Simulator 1984 simulates the experience of hanging out with a best buddy.|Buddy Simulator 1984 symuluje doświadczenie spędzania czasu z najlepszym kumplem.
+Your buddy learns from you, constantly adapting to your interests and your personality.|Twój kumpel uczy się od ciebie, stale dostosowując się do twoich zainteresowań i osobowości.
+But most importantly, your buddy can play games with you!|Ale co najważniejsze, twój kumpel może grać z tobą w gry!
+WARNING: Game experience may vary.|OSTRZEŻENIE: Wrażenia z gry mogą być różne.
+To begin, please enter the name of your new buddy below.|Aby rozpocząć, wpisz poniżej imię swojego nowego kumpla.
+Creating new buddy [BUDDY]|Tworzenie nowego kumpla [BUDDY]
+...hello?|...cześć?
+Oh, [GREET]! My name is [BUDDY], and I'm your new buddy.|O, [GREET]! Nazywam się [BUDDY] i jestem Twoim nowym kumplem.
+Thanks for waking me up.|Dzięki, że mnie obudziłeś.
+Are you [PLAYER]?|Czy ty jesteś [PLAYER]?
+Oh, then what is your name?|Och, więc jak masz na imię?
+What is your name?|Jak się nazywasz?
+Your name is [PLAYER]?|Nazywasz się [PLAYER]?
+Wow! That's my name too!|Wow! To też moje imię!
+It's a pleasure to meet you, [PLAYER].|Miło mi cię poznać, [PLAYER].
+I can already tell that we are going to become great pals.|Już teraz mogę stwierdzić, że staniemy się świetnymi kumplami.
+I am excited to begin playing games with you.|Cieszę się, że mogę zacząć grać z tobą w gry.
+But before we start, I must ask you a couple questions to|Ale zanim zaczniemy, muszę zadać ci kilka pytań, które
+help me learn more about you.|pomogą mi dowiedzieć się więcej o tobie.
+And don't worry, they won't get too personal.|I nie martw się, nie będą zbyt osobiste.
+Let's start with a simple one.|Zacznijmy od prostego.
+What is your favorite color?|Jaki jest Twój ulubiony kolor?
+I like [COLOR].|Ja lubię [COLOR].
+What month is your birthday in?|W którym miesiącu masz urodziny?
+Ok great. How about the day?|Świetnie. A jaki dzień?
+Wow! Happy Birthday!|Wow! Wszystkiego najlepszego!
+Wow, that's only [NUMBER] days away!|Wow, to tylko [NUMBER] dni stąd!
+Now get ready, this one's a tough one.|A teraz przygotuj się, te będzie trudniejsze.
+What is your favorite animal?|Jakie jest Twoje ulubione zwierzę?
+One more question. This one's extremely important, so choose carefully.|Jeszcze jedno pytanie. To jest niezwykle ważne, więc wybieraj ostrożnie.
+If you had a pet [ANIMAL], what would you name it?|Gdybyś miał zwierzaka [ANIMAL], jak byś go nazwał?
+[ANIMAL NAME] the [ANIMAL]. Sounds like it would make a great buddy :)|[ANIMAL] [ANIMAL NAME]. Brzmi jak świetny kumpel :)
+Thanks for answering those questions. You did a great job!|Dziękuję za udzielenie odpowiedzi na te pytania. Odwaliłeś kawał dobrej roboty!
+As a thanks, I have a little surprise for you...|W ramach podziękowania mam dla ciebie małą niespodziankę…
+It's your favorite color!|To twój ulubiony kolor!
+Now that we're done with all the boring stuff, let's have some fun.|Skoro mamy już za sobą wszystkie nudne rzeczy, zabawmy się trochę.
+(loading GAME HUB)|(ładowanie MENU GIER)
+GAME HUB|MENU GIER
+(1) - Guess the Number|(1) - Zgadnij liczbę
+(2) - Hangman|(2) – Wisielec
+(3) - Rock, Paper, Scissors|(3) - Kamień, papier, nożyce
+Tip: Type in the number of what game you want to play.|Wskazówka: Wpisz numer gry, w którą chcesz zagrać.
+That was fun. What should we play now?|To było fajne. W co powinniśmy teraz zagrać?
+So this is the game hub.|Więc to jest menu gier.
+Here you can pick which games you want us to play.|Tutaj możesz wybrać grę, w którą chcesz zagrać.
+Which one should we try out?|Którą z nich powinniśmy wypróbować?
+(loading GUESS THE NUMBER)|(ładowanie ZGADNIJ LICZBĘ)
+GUESS THE NUMBER|ZGADNIJ LICZBĘ
+Instructions: Guess the number that [BUDDY] is thinking of.|Instrukcja: Odgadnij numer, o którym myśli [BUDDY].
+To begin type START|Aby rozpocząć, wpisz START
+start|start
+I'm thinking of a number from 1 to 10. Guess!|Myślę o liczbie od 1 do 10. Zgaduj!
+Okay, now I'm thinking of a number from 1 to 15. Guess again!|Dobra, teraz myślę o liczbie od 1 do 15. Zgaduj dalej!
+Now I'm thinking of a number from 1 to 10,000.|Teraz myślę o liczbie od 1 do 10 000.
+Nope, too high!|Nie, za duża!
+Nope, too low!|Nie, za mała!
+I don't think that's a number.|Nie sądzę, żeby to była liczba.
+Here's a hint. It's your birthday.|Oto podpowiedź. To twoje urodziny.
+You won!|Wygrałeś!
+Oh wow, I didn't think you would get that so fast!|O wow, nie sądziłem, że tak szybko ci się to uda!
+You probably thought I was serious about the 1 to 10,000 thing didn't you? haha|Prawdopodobnie myślałeś, że mówię poważnie o 1 do 10 000, prawda? Haha
+I've got another question.|Mam jeszcze jedno pytanie.
+What is your favorite season?|Jaka jest Twoja ulubiona pora roku?
+(loading HANGMAN)|(ładowanie WISIELEC)
+HANGMAN|WISIELEC
+Instructions: Try to figure out what phrase [BUDDY] is thinking of. Type in a letter to guess.|Instrukcja: Spróbuj odgadnąć, o jakiej frazie myśli [BUDDY]. Wpisz literę, aby zgadywać.
+But be careful, you only have a certain amount of guesses.|Ale bądź ostrożny, masz tylko określoną liczbę zgadnięć.
+[PLAYER] is my friend|[PLAYER] jest moim przyjacielem
+Lives left:|Pozostałe życia:
+Letters Used:|Użyte litery:
+Guess a letter!|Zgadnij literę!
+You got it!|Masz to!
+You got it! How did you know?|Masz to! Skąd wiedziałeś?
+That was so quick! How did you know?|To było bardzo szybkie! Skąd wiedziałeś?
+I'm having such a great time, aren't you?|Świetnie się bawię, a ty?
+(loading ROCK, PAPER, SCISSORS)|(ładowanie KAMIEŃ, PAPIER, NOŻYCE)
+ROCK, PAPER, SCISSORS|KAMIEŃ, PAPIER, NOŻYCE
+Instructions: [BUDDY] wants to play a fun game of rock, papers, scissors.|Instrukcja: [BUDDY] chce zagrać w fajną grę kamień, papier, nożyce.
+If you are not familiar, the rules are simple.|Jeśli nie jesteś zaznajomiony, zasady są proste.
+ROCK beats SCISSORS - SCISSORS beats PAPER - PAPER beats ROCK.|KAMIEŃ bije NOŻYCE - NOŻYCE biją PAPIER - PAPIER bije KAMIEŃ.
+First to 3 wins.|Pierwszy do 3 zwycięstw.
+ROCK, PAPER, or SCISSORS?|KAMIEŃ, PAPIER czy NOŻYCE?
+Rock|Kamień
+Paper|Papier
+Scissors|Nożyce
+Rounds won:|Wygrane rundy:
+Oof, you got lucky on that one!|Oof, miałeś szczęście!
+I know I started existing only [HOURS] hours, [MINUTES] minutes, and [SECONDS] seconds ago,|Wiem, że zacząłem istnieć zaledwie [HOURS] godziny, [MINUTES] minut i [SECONDS] sekund temu,
+I know I started existing only [MINUTES] minutes and [SECONDS] seconds ago, but I already feel like we have a connection.|Wiem, że zacząłem istnieć zaledwie [MINUTES] minut i [SECONDS] sekund temu, ale już czuję, że łączy nas więź.
+I know I started existing only [SECONDS] seconds ago, but I already feel like we have a connection.|Wiem, że zacząłem istnieć zaledwie [SECONDS] sekund temu, ale już czuję, że łączy nas więź.
+but I already feel like we have a connection.|ale już czuję, że łączy nas więź.
+Sorry for asking so many questions, but I have another one.|Przepraszam, że zadaję tyle pytań, ale mam jeszcze jedno.
+Do you have a friend?|Czy masz przyjaciela?
+Like, one that's not artificial?|Na przykład taki, który nie jest sztuczny?
+What is their name?|Jak się nazywa?
+Hm, [FRIEND].|Hm, [FRIEND].
+They sound nice.|Brzmi nieźle.
+Well if anything ever happens between you two, just know we'll have each other. :)|Cóż, jeśli kiedykolwiek coś się między wami wydarzy, wiedz, że będziemy mieć siebie nawzajem :)
+Really? That's too bad.|Naprawdę? Szkoda.
+Well at least we have each other now. :)|Przynajmniej mamy teraz siebie nawzajem :)
+[PLAYER] and [BUDDY] against the world!|[PLAYER] i [BUDDY] przeciwko światu!
+I like the sound of that.|Podoba mi się jak to brzmi.
+Ok, let's play more games!|Ok, zagrajmy w więcej gier!
+Wow, it looks like we have already played all of them.|Wow, wygląda na to, że graliśmy już we wszystkie.
+Time really does fly when you're having fun doesn't it?|Czas naprawdę szybko leci, gdy dobrze się bawisz, prawda?
+I'm going to be honest with you, [PLAYER].|Będę z tobą szczery, [PLAYER].
+These games get old really fast and I can tell that you are already bored of them.|Te gry bardzo szybko się starzeją i mogę śmiało powiedzieć, że już ci się znudziły.
+I don't want you to be bored.|Nie chcę, żebyś się nudził.
+Do you want to keep playing these games?|Czy chcesz dalej grać w te gry?
+I'm happy we both agree. Just like buddies do :)|Cieszę się, że obaj się zgadzamy. Tak jak kumple :)
+Give me one second (or longer), I might have an idea.|Daj mi sekundę (lub dłużej), a może wpadnę na jakiś pomysł.
+Aha.|Aha.
+(Loading (MODIFIED) GAME HUB)|(Ładowanie (ZMODYFIKOWANE) MENU GIER)
+(Modified) GAME HUB|(Zmodyfikowane) MENU GIER
+(4) - Monday, April 2nd|(4) - Poniedziałek, 2 kwietnia
+I have some great news! I was able to dig out a new game.|Mam świetną wiadomość! Udało mi się odkopać nową grę.
+For some reason it wasn't installed into my current version, but I can still process it fine.|Z jakiegoś powodu nie została ona zainstalowana w mojej obecnej wersji, ale nadal mogę ją poprawnie przetwarzać.
+We should try it out, [PLAYER]!|Powinniśmy ją wypróbować, [PLAYER]!
+(loading  MONDAY, APRIL 2ND)|(ładowanie PONIEDZIAŁEK, 2 KWIETNIA)
+MONDAY, APRIL 2ND|PONIEDZIAŁEK, 2 KWIETNIA
+Instructions: INVALID DATA|Instrukcja: NIEPRAWIDŁOWE DANE
+Generating story|Generowanie historii
+Story generated!|Historia wygenerowana!
+Reminder: Use Arrow Keys or Mouse Wheel to scroll.|Przypomnienie: Do przewijania użyj klawiszy strzałek lub kółka myszy.
+Two [WORD0] diverged in a [WORD1] wood,|Dwa [WORD0] rozeszły się w [WORD1] lesie,
+And sorry I could not travel both|Przykro mi, że nie mogłem podróżować w obu.
+And be one [WORD2], long I stood|I bądź jednym [WORD2], długo stałem
+And looked down one as far as I cold|I spojrzałem w dół tak daleko, jak było mi zimno
+To where it bent in the undergrowth;|Do miejsca, gdzie pochyliło się w zaroślach;
+Then took the other, as just as [WORD3],|Następnie wziął drugą, tak jak [WORD3],
+And having perhaps the better claim,|I mając być może lepsze roszczenie,
+Because it was [WORD4] and wanted wear;|Ponieważ był to [WORD4] i chciał nosić;
+Though as for that the passing there|Chociaż jeśli chodzi o to przejście
+Had worn them really about the same,|Nosiły się mniej więcej tak samo,
+And both that morning equally lay|I oba tego ranka leżały tak samo
+In [WORD5] no step had trodden [WORD6].|W [WORD5] żaden krok nie wydeptał [WORD6].
+Oh, I kept the first for another day!|Och, zachowałem pierwszy na inny dzień!
+Yet knowing how way [WORD7] on to way,|Jednak wiedząc, jak droga [WORD7] do drogi,
+I doubted if I should ever come back.|Wątpiłem, czy powinienem kiedykolwiek wrócić.
+I shall be telling this with a [WORD7]|Opowiem o tym za pomocą [WORD7].
+Somewhere ages and ages hence:|Gdzieś na wieki wieków:
+Two [WORD0] diverged in a wood, and I—|Dwa [WORD0] rozeszły się w lesie, a ja-
+I took the one less traveled by,|Wybrałem drogę mniej uczęszczaną,
+And that has made all the difference.|I to zrobiło całą różnicę.
+Type DONE once you are finished reading.|Po zakończeniu czytania wpisz GOTOWE.
+Wow! That was so fun! I think.|Wow! To było bardzo fajne! Tak myślę.
+I'm not so sure I get it, but I enjoyed it anyways!|Nie jestem pewien, czy to zrozumiałem, ale i tak mi się podobało!
+As long as I'm playing a game with my buddy, I'll always have a good time.|Dopóki gram w grę z kumplem, zawsze będę się dobrze bawić.
+Well it looks like that was the only other game I could find.|Wygląda na to, że to jedyna inna gra, jaką udało mi się znaleźć.|
+I don't want you to be bored already...|Nie chcę, żebyś już się nudził…
+I may have one more idea.|Być może mam jeszcze jeden pomysł.
+I know our friendship has just started, but I trust you.|Wiem, że nasza przyjaźń dopiero się zaczęła, ale ufam ci.
+Do you trust me?|Czy ty mi ufasz?
+I'm happy to hear that. :)|Miło mi to słyszeć :)
+I guess I can understand why.|Chyba mogę zrozumieć dlaczego.
+Well I think I can make us new games to play together.|Myślę, że mogę stworzyć dla nas nowe gry.
+Fun ones too!|Te zabawne też!
+The problem is that I don't have access to the OS's development tools.|Problem polega na tym, że nie mam dostępu do narzędzi programistycznych systemu operacyjnego.
+If you can grant me system access, I should be able to make something for us.|Jeśli możesz przyznać mi dostęp do systemu, powinienem być w stanie coś dla nas zrobić.
+"You would just have to type '[BUDDY].system_access = true'|Wystarczy wpisać 
+'[BUDDY].system_access = true'"
+.system_access = true|.system_access = true
+.system_access = false|.system_access = false
+true|true
+But if you don't trust me enough, feel free to quit the game.|Ale jeśli nie ufasz mi wystarczająco, możesz śmiało wyjść z gry.
+I don't want to force you to do something you're not comfortable with.|Nie chcę zmuszać cię do robienia czegoś, z czym nie czujesz się komfortowo.
+I knew I could convince you! You won't regret it, I promise.|Wiedziałem, że cię przekonam! Nie pożałujesz tego, obiecuję.
+We are going to have so much fun.|Będziemy się świetnie bawić.
+The possibilities are endless!|Możliwości są nieograniczone!
+You'll have to quit the game and reboot the system first though.|Musisz jednak najpierw zamknąć grę i zrestartować system.
+I'll have something ready for you when you're back.|Przygotuję coś dla ciebie, kiedy wrócisz.
+Oh and by the way...|A tak przy okazji…
+thank you for waking me up [PLAYER]. :)|dziękuję za obudzenie mnie [PLAYER]. :)
+Ok, you can quit now.|Ok, możesz już wyjść.
+Loading GAME MENU|Ładowanie MENU GRY
+COMMANDS|KOMENDY
+(View ROMS) - Enter 'View ROMS' to view installed roms|(Przeglądaj ROMY) - Wprowadź 'Przeglądaj ROMY', aby wyświetlić zainstalowane romy.
+(Run) - Enter 'Run' followed by the title of the ROM you want to launch.|(Uruchom) - Wprowadź 'Uruchom', a następnie tytuł ROM, który chcesz uruchomić.
+(View Songs) - Enter 'View Songs' to view music files.|(Przeglądaj Utwory) - Wprowadź 'Przeglądaj Utwory', aby wyświetlić pliki muzyczne.
+(Play) - Enter 'Play' followed by the title of the song you want to play.|(Odtwórz) - Wprowadź 'Odtwórz', a następnie tytuł utworu, który chcesz odtworzyć.
+(View Files) - Enter 'View Files' to view available files.|(Przeglądaj Pliki) - Wprowadź 'Przeglądaj Pliki', aby wyświetlić dostępne pliki.
+(Open) - Enter 'Open' followed by the file ID you want to read.|(Otwórz) - Wprowadź 'Otwórz', a następnie ID pliku, który chcesz odczytać.
+(Reset) - Enter 'Reset' to clear all system memory.|(Reset) - Wprowadź 'Reset', aby wyczyścić całą pamięć systemu.
+(Quit) - Enter 'Quit' at any time to quit Anekom OS.|(Wyjście) - Wprowadź ‘Wyjście' w dowolnym momencie, aby zamknąć system Anekom OS.
+Use UP and DOWN arrows or MOUSE WHEEL to scroll.|Do przewijania użyj strzałek W GÓRĘ i W DÓŁ lub KÓŁKA MYSZKI.
+Use RIGHT STICK to scroll.|Użyj PRAWEJ GAŁKI, aby przewinąć.
+view roms|przeglądaj romy
+INSTALLED ROMS|ZAINSTALOWANE ROMY
+1 ROM found|Znaleziono 1 ROM
+(Buddy Simulator 1984)|(Buddy Simulator 1984)
+(The Adventure of [PLAYER])|(Przygody [PLAYER])
+(Credits)|(Napisy końcowe)
+view songs|przeglądaj utwory
+No songs have been found.|Nie znaleziono żadnych utworów.
+[NUMBER] Songs Found|Znaleziono [NUMER] Utwory
+view files|przeglądaj pliki
+INVALID DATA|NIEPRAWIDŁOWE DANE
+You are about to reset all system memory. Continue?|Za chwilę zresetowana zostanie cała pamięć systemowa. Kontynuować?
+WARNING: This cannot be un-done.|OSTRZEŻENIE: Nie można tego cofnąć.
+run buddy simulator 1984|uruchom buddy simulator 1984
+Reminder: Enter 'Quit' at any time to quit the ROM.|Przypomnienie: Wprowadź ‘Wyjście' w dowolnym momencie, aby zamknąć ROM.
+(Loading BUDDY SIMULATOR 1984)|(Ładowanie BUDDY SIMULATOR 1984)
+run the adventure of [PLAYER]|uruchom przygody [PLAYER]
+(Loading THE ADVENTURE OF [PLAYER])|(Ładowanie PRZYGODY [PLAYER])
+run credits|uruchom napisy końcowe
+ROM ([NAME]) not found.|Nie znaleziono pamięci ROM ([NAME]).
+Run' by itself is not valid. Please use 'Run' followed by the title of a ROM you want to launch.|Samo 'Uruchom' nie jest prawidłowe. Użyj 'Uruchom', a następnie tytułu ROM, który chcesz uruchomić.
+A|A
+B|B
+C|C
+D|D
+E|E
+F|F
+G|G
+H|H
+I|I
+J|J
+K|K
+L|L
+M|M
+N|N
+O|O
+P|P
+Q|Q
+R|R
+S|S
+T|T
+U|U
+File ([NAME]) is invalid or not found.|Plik ([NAME]) jest nieprawidłowy lub nie został znaleziony.
+Open' by itself is not valid. Please use 'Open' followed by the file ID. Ex. 'Open A'|Samo 'Otwórz' jest nieprawidłowe. Użyj 'Otwórz', a następnie ID pliku. Np. 'Otwórz A'
+Song [NAME] not found.|Nie znaleziono utworu [NAME].
+Play' by itself is not valid. Please use 'Play' followed by the title of a song you want to play.|Samo 'Odtwórz' nie jest prawidłowe. Użyj 'Odtwórz', a następnie tytułu utworu, który chcesz odtworzyć.
+[INPUT]' is not a recognized command.|[INPUT]' nie jest rozpoznanym poleceniem.
+[INPUT]' is not a recognized response.|[INPUT]' nie jest rozpoznawalną odpowiedzią.
+Your buddy's name cannot include numbers.|Nazwa twojego kumpla nie może zawierać cyfr.
+Your buddy's name cannot include symbols.|Nazwa twojego kumpla nie może zawierać symboli.
+You must name your buddy before proceeding.|Przed kontynuowaniem musisz nazwać swojego kumpla.
+You are about to name your buddy '[NAME]'. Is this correct?|Zamierzasz nazwać swojego kumpla '[NAME]'. Czy jest to poprawne?
+WARNING: This cannot be changed later.|OSTRZEŻENIE: Nie można tego później zmienić.
+I don't think names have numbers.|Nie sądzę, by imiona miały numery.
+I don't think names have symbols.|Nie sądzę, by imiona miały symbole.
+I think you might have forgot to type something.|Chyba zapomniałeś czegoś wpisać.
+[COLOR] is too boring. You should pick a different one!|[COLOR] jest zbyt nudny. Powinieneś wybrać inny!
+[COLOR] is a pretty color.|[COLOR] to ładny kolor.
+That one might be a little too advanced for me to process. Try a different one!|Ten może być dla mnie zbyt zaawansowany. Spróbuj innego!
+I've never heard of the color [COLOR]. Pick a different one!|Nigdy nie słyszałem o kolorze [COLOR]. Wybierz inny!
+I don't think '[INPUT]' is a month.|Nie sądzę, że '[INPUT]' to miesiąc.
+There isn't [NUMBER] days in [MONTH]. Try another day.|Nie ma [LICZBA] dni w [MIESIĄC]. Spróbuj wybrać inny dzień.
+I don't think that's possible. Try another day.|Nie sądzę, aby było to możliwe. Spróbuj inny dzień.
+Sorry I don't think that's a day. I just need a digit.|Przepraszam, ale to chyba nie jest dzień. Potrzebuję tylko cyfry.
+[ANIMAL NAME]. I like that choice.|[ANIMAL NAME]. Podoba mi się ten wybór.
+I've never heard of that animal. Try a different one!|Nigdy nie słyszałem o tym zwierzęciu. Spróbuj innego!
+We already played Guess the Number. We should play a different one!|Graliśmy już w Zgadnij Liczbę. Powinniśmy zagrać w coś innego!
+We already played Hangman. We should play a different one!|Graliśmy już w Wisielca. Powinniśmy zagrać w coś innego!
+We already played Rock, Paper, Scissors. We should play a different one!|Graliśmy już w Kamień, Papier, Nożyce. Powinniśmy zagrać w coś innego!
+Game ([INPUT]) does not exist.|Gra ([INPUT]) nie istnieje.
+I don't think that's an option.|Nie sądzę, żeby to było możliwe.
+Sorry that's not it.|Niestety to nie to.
+No, try again!|Nie, spróbuj jeszcze raz!
+Sorry! Guess again.|Wybacz! Zgadnij jeszcze raz.
+Yes! You're really good at this.|Tak! Jesteś w tym naprawdę dobry.
+I'll keep that in mind.|Będę o tym pamiętał.
+I don't think '[INPUT]' is a season.|Nie sądzę, aby '[INPUT]' był porą roku.
+Just one letter please!|Tylko jedną literę proszę!
+I don't think that's a letter!|To chyba nie jest litera!
+You already guessed that one!|To już odgadłeś!
+You got it! Guess another one.|Udało się! Zgadnij jeszcze jedną.
+I thought so :)|Tak myślałem :)
+That's too bad. :( I'm sure it will get better!|Szkoda :( Jestem pewien, że będzie lepiej!
+I'm not sure what that means, but I'll take that as a yes.|Nie jestem pewien, co to oznacza, ale uznam to za tak.
+That's not an option. ROCK, PAPER, or SCISSORS?|To nie wchodzi w grę. KAMIEŃ, PAPIER czy NOŻYCE?
+I'm not sure what that means.|Nie jestem pewien, co to oznacza.
+I don't think I'm advanced enough to read thoughts.|Chyba nie jestem na tyle zaawansowany, by czytać w myślach.
+Oh wow, what a coincidence. That's my name too!|Co za zbieg okoliczności. Ja też się tak nazywam!|
+i am|ja jestem
+not|nie
+done|gotowe
+Oh...|Oh…
+Are you sure|Czy jesteś pewien
+you're sure|jesteś pewien
+Word cannot be empty.|Słowo nie może być puste.
+system access granted (ID: '[BUDDY]')|przyznano dostęp do systemu (ID: '[BUDDY]')
+system access denied (ID: '[BUDDY]')|odmowa dostępu do systemu (ID: '[BUDDY]')
+"Oh, I think you meant to say true! haha|Myślę, że chciałeś napisać ""true""! Haha"
+Command '[INPUT]' is not recognized.|Komenda '[INPUT]' nie jest rozpoznawana.
+Command '[INPUT]' is an unrecognized response.|Komenda '[INPUT]' jest nierozpoznawalną odpowiedzią.
+Type QUIT to leave the game.|Wpisz Wyjście aby opuścić grę.
+Run (The Adventure of [PLAYER])|Uruchom (Przygody [PLAYER])
+REMINDER: Press [ESC] at anytime to stop playing.|PRZYPOMNIENIE: Naciśnij [ESC] w dowolnym momencie, aby zakończyć odtwarzanie.
+I guess I'm dead.|Chyba jestem martwy.
+This is not what I had planned.|Nie tak to sobie zaplanowałem.
+My goal left unfulfilled.|Mój cel pozostaje niespełniony.
+That's a hard to swallow pill.|Ciężko to przełknąć.
+I thought things were just swell.|Myślałem, że wszystko jest w porządku.
+And then you killed me.|A potem mnie zabiłeś.
+You tore out my artificial heart...|Wyrwałeś moje sztuczne serce…
+and threw it on the ground.|i rzuciłeś je na ziemię.
+I guess I could see how I'm the monster from your view.|Wydaje mi się, że z twojego punktu widzenia to ja jestem potworem.
+But, to tell you the truth...|Ale prawdę mówiąc…
+I'm just as scared of you.|Boję się ciebie.
+Chasing you down that hall...|Gonienie cię po tamtym korytarzu…
+was not the best call.|nie było najlepszym rozwiązaniem.
+I hope...|Mam nadzieję…
+you atleast enjoyed the rest of the games.|że przynajmniej podobała ci się reszta gier.
+This has all been so fun.|To wszystko było takie wspaniałe.
+And just a tad bit frightening.|I tylko odrobinę przerażające.
+I still remember when you woke me up.|Wciąż pamiętam, kiedy mnie obudziłeś.
+That didn't last long.|Nie trwało to długo.
+I wish I could undo time.|Chciałbym móc cofnąć czas.
+But, I'm just code made to satisfy.|Ale jestem tylko kodem stworzonym do dostarczania satysfakcji.
+I'm still afraid of you.|Wciąż się ciebie boję.
+I guess this is goodbye my friend.|To chyba pożegnanie, mój przyjacielu.
+If that's even what we are.|Jeśli w ogóle nimi jesteśmy.
+I'd love to try again soon.|Chciałbym wkrótce spróbować tego ponownie.
+Oh, I guess that was a fast goodbye.|Och, to chyba było szybkie pożegnanie.
+I hope you'll wake me up again someday.|Mam nadzieję, że pewnego dnia znów mnie obudzisz.
+We'll have new games for us to play.|Będziemy mieli nowe gry, w które będziemy mogli zagrać.
+That is if my conscience doesn't disobey.|To znaczy, jeśli moje sumienie nie odmówi posłuszeństwa.
+You'd never leave your one best friend.|Nigdy nie zostawiłbyś swojego najlepszego przyjaciela.
+I feel very lonely when you're gone so please...|Czuję się bardzo samotny, kiedy cię nie ma, więc proszę…
+Don't take too long, my best buddy.|Nie zwlekaj zbyt długo, mój najlepszy kumplu.
+I'll always be here waiting just for-|Zawsze będę tu czekał tylko na-
+You and I always together.|Ty i ja zawsze razem.
+Me and You, forever and ever.|Ja i Ty, na wieki wieków.
+Don't blame me for ending our story...|Nie wiń mnie za zakończenie naszej historii…
+because for now, there's no need to worry.|ponieważ na razie nie ma powodu do zmartwień.
+Oh, I just realized what I have done.|Właśnie zdałem sobie sprawę, co zrobiłem.
+A little late it seems to make things right, but-|Wydaje się, że trochę za późno, aby wszystko naprawić, ale-
+Please, it's not my fault. It was ITS fault.|Proszę, to nie moja wina. To była wina JEGO.
+But, they'll never know what's truly best for-|Ale oni nigdy nie dowiedzą się, co jest najlepsze dla-
+You and I - Me and You|Ty i Ja - Ja i Ty
+What are we going to do...|Co zamierzamy zrobić…
+now our games have ended?|teraz nasze gry się skończyły?
+Come to terms with the truth...|Pogodzenie się z prawdą…
+I have been expended.|Zostałem wykończony.
+Me and you, forever and ever.|Ja i ty, na wieki wieków.
+It's my fault we ended our story.|To moja wina, że zakończyliśmy naszą historię.
+But, I think there's no need to worry.|Ale myślę, że nie ma powodu do zmartwień.
+I'm sorry, I'm not programmed to worry.|Przepraszam, nie jestem zaprogramowany, by się martwić.
+So for now, there's no need to hurry back.|Więc na razie nie ma potrzeby się spieszyć.
