@@ -1,17 +1,17 @@
->uninstall the adventure of [PLAYER]
+>odinstaluj przygody [PLAYER]
 
-You are about to remove [The Adventure of [PLAYER]]
-	Previously known names:
-	[Buddy Simulator 1984]
+Zamierzasz właśnie usunąć [Przygody [PLAYER]]
+	Poprzednie występujące nazwy:
+	[Buddy Simulator 1984].
 
-[CRITICAL WARNING: ID [BUDDY] IS DEPENDENT ON THIS APPLICATION]
+[OSTRZEŻENIE KRYTYCZNE: IDENTYFIKATOR [BUDDY] JEST ZALEŻNY OD TEJ APLIKACJI]
 
-Are you sure you would like to uninstall [The Adventure of [PLAYER]]?
->yes
+Czy na pewno chcesz odinstalować [Przygody [PLAYER]]?
+>tak
 
-Please type admin password to confirm:
-[WARNING: THIS ACTION CANNOT BE UNDONE]
+Wpisz hasło administratora, aby potwierdzić:
+[OSTRZEŻENIE: TEJ AKCJI NIE MOŻNA COFNĄĆ]
 
->myfriendmilo
+>mójprzyjacielmilo
 
-BEGINNING REMOVAL OF [The Adventure of [PLAYER]]
+ROZPOCZĘCIE USUWANIA [Przygody [PLAYER]]
