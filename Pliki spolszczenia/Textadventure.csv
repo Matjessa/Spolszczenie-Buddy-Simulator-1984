@@ -1,209 +1,209 @@
-BASIC COMMANDS|
-(Inventory) - Enter 'inventory' to view all of your current items.|
-(Go) - Enter actions similar to 'go' followed by a location to move somewhere.|
-(Use) - Enter 'use' followed by a subject to use it.|
-(Take) - Enter actions similar to 'take' followed by an item to take something.|
-(Look) - Enter actions similar to 'look at' followed by a subject to examine something.|
-(Locations) Enter 'locations' to print out a list of locations you can go.|
-Note: Hold [BUTTON] to read faster.|
-go|
-go custom_to|
-go custom2_to|
-go custom3_to|
-walk|
-walk custom_to|
-walk custom2_to|
-walk custom3_to|
-move|
-move custom_to|
-move custom2_to|
-move custom3_to|
-use|
-use custom|
-use custom2|
-pick up|
-pick up custom_the|
-pick up custom2_the|
-pick up custom3_the|
-pick up custom4_the|
-grab|
-grab custom_the|
-grab custom2_the|
-grab custom3_the|
-grab custom4_the|
-take|
-take custom_the|
-take custom2_the|
-take custom3_the|
-take custom4_the|
-obtain|
-obtain custom_the|
-obtain custom2_the|
-obtain custom3_the|
-obtain custom4_the|
-acquire|
-acquire custom_the|
-acquire custom2_the|
-acquire custom3_the|
-acquire custom4_the|
-look|
-look custom_at|
-look custom2_at|
-look custom3_at|
-look custom_the|
-look custom2_the|
-look custom3_the|
-look custom4_the|
-examine|
-examine custom_the|
-examine custom2_the|
-examine custom3_the|
-examine custom4_the|
-observe|
-observe custom_at|
-observe custom2_at|
-observe custom3_at|
-observe custom_the|
-observe custom2_the|
-observe custom3_the|
-observe custom4_the|
-check|
-check custom_at|
-check custom2_at|
-check custom3_at|
-check custom_the|
-check custom2_the|
-check custom3_the|
-check custom4_the|
-open|
-enter|
-inventory|
-locations|
-eat|
-left|
-right|
-road|
-lantern|
-tree|
-house|
-HOUSE|
-shed|
-playground|
-pond|
-front lawn|
-hidden|
-hidden place|
-tunnel|
-left tunnel|
-right tunnel|
-forward|
-back|
-straight|
-continue|
-leave|
-up|
-thing|
-shovel|
-door|
-sign|
-window|
-water|
-dock|
-planks|
-inside|
-in|
-into|
-fishing pole|
-pole|
-chest|
-trapdoor|
-chain|
-ladder|
-bulb|
-cabinet|
-drawing|
-bones|
-case|
-ring|
-key|
-seesaw|
-swing|
-swings|
-sandbox|
-doll|
-keypad|
-box|
-skull|
-hand|
-well|
-map|
-picture|
-teeth|
-eyes|
-fishing|
-drink|
-taste|
-surprise|
-a map!|
-Welcome back, [PLAYER]!|
-Ok, so here's where we left off...|
-WELCOME TO...|
-WELCOME BACK TO...|
-THE ADVENTURE OF [PLAYER]|
-Written and Developed by [BUDDY]|
-Now loading......|
-(BULB removed from your inventory)|
-(BULB added to your inventory)|
-(LANTERN added to inventory)|
-(LANTERN removed from your inventory)|
-(CHEST added to your inventory)|
-(CHEST removed from your inventory)|
-(DOLL added to your inventory)|
-(DOLL removed from your inventory)|
-(FISHING POLE added to your inventory)|
-(FISHING POLE removed from your inventory)|
-(HAND added to you inventory)|
-(HAND removed from your inventory)|
-(KEY added to your inventory)|
-(KEY removed from your inventory)|
-(PICTURE added to inventory)|
-(PICTURE removed from your inventory)|
-(RING added to inventory)|
-(RING removed from your inventory)|
-(SHOVEL added to your inventory)|
-(SHOVEL removed from your inventory)|
-You're walking along a road. It's dark, trees almost entirely blocking out the sky.|
-You're walking along a road. It's dark, trees almost entirely blocking out the stars.|
-The oranges and browns of the leaves tremble as a wind blows through.|
-Snow crunches beneath your feet. Your breath freezes your eyelashes.|
-There's a heavy rain. The world looks like static.|
-It's dry. The only water you've seen has been your own sweat.|
-Some of them remind you of hands, waving.|
-When you're not moving it's very quiet.|
-Everything looks like it is moving.|
-Bugs sing for each other, but not for you.|
-You are alone.|
-After walking for a long time, the road splits into two. Will you GO LEFT or GO RIGHT?|
-REMINDER: Type HELP at any time for a list of commands.|
-Pondering deeply on your choice, you start down the left road.|
-It starts going downhill, you try to step carefully.|
-You see ahead is a small speck of light.|
-As you get closer you realize it's a LANTERN, hung on a tree.|
-Moving onward, you eventually come to a wall. There are two tunnels cut into it, one LEFT and one RIGHT.|
-You can see some light coming from the RIGHT tunnel. You see none on the LEFT.|
-You start going left.|
-You realize this was a bad idea. You can't see anything, it's too dark.|
-You start shivering.|
-Will you go back?|
-You continue onward.|
-You continue forward.|
-You still see no light and the entrance is disappearing behind you.|
-It's very very cold.|
-It's now completely dark behind you.|
-The LANTERN is flickering.|
-You don't want to go any farther.|
-This goes on for some time until you hear something strange and stop.|
-You realize you aren't hearing only one pair of footsteps.|
+BASIC COMMANDS|PODSTAWOWE KOMENDY
+(Inventory) - Enter 'inventory' to view all of your current items.|(Ekwipunek) - Wprowadź 'ekwipunek', aby wyświetlić wszystkie posiadane przedmioty.
+(Go) - Enter actions similar to 'go' followed by a location to move somewhere.|(Idź) - Wprowadź akcję podobną do 'idź', a następnie lokalizację, aby się gdzieś przemieścić.
+(Use) - Enter 'use' followed by a subject to use it.|(Użyj) - Wprowadź 'użyj', a następnie podmiot, aby go użyć.
+(Take) - Enter actions similar to 'take' followed by an item to take something.|(Weź) - Wprowadź akcje podobną do 'weź', a następnie przedmiot, aby coś wziąć.
+(Look) - Enter actions similar to 'look at' followed by a subject to examine something.|(Spójrz) - Wprowadź akcję podobną do 'spójrz na', a następnie obiekt, aby coś zbadać.
+(Locations) Enter 'locations' to print out a list of locations you can go.|(Lokacje) Wprowadź 'lokacje', aby wyświetlić listę miejsc, do których możesz się udać.
+Note: Hold [BUTTON] to read faster.|Uwaga: Przytrzymaj przycisk [BUTTON], aby przyspieszyć odczyt.
+go|idź
+go custom_to|idź do
+go custom2_to|idź na
+go custom3_to|zmierzaj do
+walk|biegnij
+walk custom_to|biegnij do
+walk custom2_to|biegnij na
+walk custom3_to| zmierzaj na
+move|przemieść
+move custom_to|przemieść do
+move custom2_to|przemieść na
+move custom3_to|zmierzaj
+use|użyj
+use custom|use
+use custom2|wykorzystaj
+pick up|podnieś
+pick up custom_the|podnieś ten
+pick up custom2_the|podnieś tą
+pick up custom3_the|podnieś to
+pick up custom4_the|podnieś te
+grab|chwyć
+grab custom_the|chwyć ten
+grab custom2_the|chwyć ją
+grab custom3_the|chwyć to
+grab custom4_the|chwyć te
+take|weź
+take custom_the|weź ten
+take custom2_the|weź ją
+take custom3_the|weź to
+take custom4_the|weź te
+obtain|zbierz
+obtain custom_the|zbierz ten
+obtain custom2_the|zbierz tą
+obtain custom3_the|zbierz to
+obtain custom4_the|zbierz te
+acquire|przyjmij
+acquire custom_the|przyjmij ten
+acquire custom2_the|przyjmij tą
+acquire custom3_the|przyjmij to
+acquire custom4_the|przyjmij te
+look|spójrz
+look custom_at|spójrz na
+look custom2_at|look at
+look custom3_at|zobacz na
+look custom_the|&
+look custom2_the|&
+look custom3_the|&
+look custom4_the|&
+examine|zbadaj
+examine custom_the|zbadaj ten
+examine custom2_the|zbadaj tą
+examine custom3_the|zbadaj to
+examine custom4_the|zbadaj te
+observe|obserwuj
+observe custom_at|&
+observe custom2_at|&
+observe custom3_at|&
+observe custom_the|obserwuj ten
+observe custom2_the|obserwuj tą
+observe custom3_the|obserwuj to
+observe custom4_the|obserwuj te
+check|sprawdź
+check custom_at|&
+check custom2_at|&
+check custom3_at|&
+check custom_the|sprawdź ten
+check custom2_the|sprawdź tą
+check custom3_the|sprawdź to
+check custom4_the|sprawdź te
+open|otwórz
+enter|wejdź
+inventory|ekwipunek
+locations|lokacje
+eat|zjedz
+left|lewo
+right|prawo
+road|droga
+lantern|latarnia
+tree|drzewo
+house|dom
+HOUSE|DOM
+shed|szopa
+playground|plac zabaw
+pond|staw
+front lawn|przedni trawnik
+hidden|ukryte
+hidden place|ukryte miejsce
+tunnel|tunel
+left tunnel|lewy tunel
+right tunnel|prawy tunel
+forward|przód
+back|tył
+straight|prosto
+continue|kontynuuj
+leave|opuść
+up|góra
+thing|coś
+shovel|łopata
+door|drzwi
+sign|znak
+window|okno
+water|woda
+dock|dok
+planks|deski
+inside|środek
+in|do środka
+into|do
+fishing pole|wędka
+pole|słup
+chest|skrzynia
+trapdoor|zapadnia
+chain|łańcuch
+ladder|drabina
+bulb|żarówka
+cabinet|szafka
+drawing|rysunek
+bones|kości
+case|gablota
+ring|pierścień
+key|klucz
+seesaw|piła
+swing|huśtawka
+swings|huśtawki
+sandbox|piaskownica
+doll|lalka
+keypad|klawiatura
+box|pudełko
+skull|czaszka
+hand|dłoń
+well|studnia
+map|mapa
+picture|obrazek
+teeth|zab
+eyes|oczy
+fishing|łowienie
+drink|picie
+taste|jedzenie
+surprise|niespodzianka
+a map!|mapa!
+Welcome back, [PLAYER]!|Witamy z powrotem, [PLAYER]!
+Ok, so here's where we left off...|Ok, więc tutaj skończyliśmy...
+WELCOME TO...|WITAJ W...
+WELCOME BACK TO...|WITAJ Z POWROTEM W...
+THE ADVENTURE OF [PLAYER]|PRZYGODY [PLAYER]
+Written and Developed by [BUDDY]|Napisane i opracowane przez [BUDDY]
+Now loading......|Teraz ładuje.......
+(BULB removed from your inventory)|(ŻARÓWKA została usunięta z twojego ekwipunku)
+(BULB added to your inventory)|(ŻARÓWKA została dodana do twojego ekwipunku)
+(LANTERN added to inventory)|(LATARNIA została dodana do twojego ekwipunku)
+(LANTERN removed from your inventory)|(LATARNIA została usunięta z twojego ekwipunku)
+(CHEST added to your inventory)|(SKRZYNIA została dodana do twojego ekwipunku)
+(CHEST removed from your inventory)|(SKRZYNIA została usunięta z twojego ekwipunku)
+(DOLL added to your inventory)|(LALKA została dodana do twojego ekwipunku)
+(DOLL removed from your inventory)|(LALKA została usunięta z twojego ekwipunku)
+(FISHING POLE added to your inventory)|(WĘDKA została dodana do twojego ekwipunku)
+(FISHING POLE removed from your inventory)|(WĘDKA została usunięta z twojego ekwipunku)
+(HAND added to you inventory)|(RĘKA została dodana do twojego ekwipunku)
+(HAND removed from your inventory)|(RĘKA została usunięta z twojego ekwipunku)
+(KEY added to your inventory)|(KLUCZ został dodany do twojego ekwipunku)
+(KEY removed from your inventory)|(KLUCZ został usunięty z twojego ekwipunku)
+(PICTURE added to inventory)|(OBRAZEK został dodany do twojego ekwipunku)
+(PICTURE removed from your inventory)|(Obrazek został usunięty z twojego ekwipunku)
+(RING added to inventory)|(PIERŚCIEŃ został dodany do twojego ekwipunku)
+(RING removed from your inventory)|(PIERŚCIEŃ został usunięty z twojego ekwipunku)
+(SHOVEL added to your inventory)|(ŁOPATA została dodana do twojego ekwipunku)
+(SHOVEL removed from your inventory)|(ŁOPATA została usunięta z twojego ekwipunku)
+You're walking along a road. It's dark, trees almost entirely blocking out the sky.|Idziesz wzdłuż drogi. Jest ciemno, drzewa prawie całkowicie zasłaniają niebo.
+You're walking along a road. It's dark, trees almost entirely blocking out the stars.|Idziesz wzdłuż drogi. Jest ciemno, drzewa prawie całkowicie zasłaniają gwiazdy.
+The oranges and browns of the leaves tremble as a wind blows through.|Pomarańcze i brązy liści drżą, gdy wieje wiatr.
+Snow crunches beneath your feet. Your breath freezes your eyelashes.|Śnieg chrzęści pod twoimi stopami. Twój oddech zamraża ci rzęsy.
+There's a heavy rain. The world looks like static.|Pada ulewny deszcz. Świat wygląda jak nieruchomy.
+It's dry. The only water you've seen has been your own sweat.|Jest sucho. Jedyna woda, jaką widziałeś, to twój własny pot.
+Some of them remind you of hands, waving.|Niektóre z nich przypominają machające ręce.
+When you're not moving it's very quiet.|Kiedy się nie poruszasz, jest bardzo cicho.
+Everything looks like it is moving.|Wszystko wygląda, jakby się poruszało.
+Bugs sing for each other, but not for you.|Robaki śpiewają dla siebie nawzajem, ale nie dla Ciebie.
+You are alone.|Jesteś całkiem sam.
+After walking for a long time, the road splits into two. Will you GO LEFT or GO RIGHT?|Po długim marszu droga rozdziela się na dwie części. Pójdziesz w LEWO czy w PRAWO?
+REMINDER: Type HELP at any time for a list of commands.|PRZYPOMNIENIE: Wpisz POMOC w dowolnym momencie, aby wyświetlić listę poleceń.
+Pondering deeply on your choice, you start down the left road.|Głęboko zastanawiając się nad swoim wyborem, ruszasz lewą drogą.
+It starts going downhill, you try to step carefully.|Droga zaczyna schodzić w dół, starasz się stąpać ostrożnie.
+You see ahead is a small speck of light.|Widzisz przed sobą małą plamkę światła.
+As you get closer you realize it's a LANTERN, hung on a tree.|Gdy podchodzisz bliżej, zdajesz sobie sprawę, że to LATARNIA zawieszona na drzewie.
+Moving onward, you eventually come to a wall. There are two tunnels cut into it, one LEFT and one RIGHT.|Idąc dalej, w końcu dochodzisz do ściany. Są w niej wycięte dwa tunele, jeden W LEWO i jeden W PRAWO.
+You can see some light coming from the RIGHT tunnel. You see none on the LEFT.|Widać trochę światła dochodzącego z PRAWEGO tunelu. Po LEWEJ stronie nie widać żadnego.
+You start going left.|Zaczynasz iść w lewo.
+You realize this was a bad idea. You can't see anything, it's too dark.|Zdajesz sobie sprawę, że to był zły pomysł. Nic nie widzisz, jest zbyt ciemno.
+You start shivering.|Zaczynasz drżeć.
+Will you go back?|Czy zamierzasz zawrócić?
+You continue onward.|Idziesz dalej.
+You continue forward.|Kontynuujesz drogę naprzód.
+You still see no light and the entrance is disappearing behind you.|Nadal nie widzisz światła, a wejście znika za tobą.
+It's very very cold.|Jest bardzo bardzo zimno.
+It's now completely dark behind you.|Za tobą jest teraz zupełnie ciemno.
+The LANTERN is flickering.|LATARNIA migocze.
+You don't want to go any farther.|Nie chcesz już iść dalej.
+This goes on for some time until you hear something strange and stop.|Trwa to przez jakiś czas, dopóki nie usłyszałeś czegoś dziwnego, po czym zatrzymałeś się.
+You realize you aren't hearing only one pair of footsteps.|Zdajesz sobie sprawę, że nie słyszysz tylko jednej pary kroków.
 There's something coming ahead of you, echoing off the walls.|
 Your LANTERN goes out.|
 You go back.|
