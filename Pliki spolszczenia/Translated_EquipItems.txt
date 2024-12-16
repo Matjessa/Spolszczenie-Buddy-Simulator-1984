@@ -1,56 +1,56 @@
-None
+Nic
 
-Extremely Nice Letter
-The paper looks blank, awaiting your words to give it life.
-If equipped, all enemies will take an instant (+8) damage at start of battle. Lose Extremely Nice Letter on use.
+Niezwykle miły list
+Papier wygląda na pusty, czekając na twoje słowa, które tchną w niego życie.
+Jeśli jest wyposażony, wszyscy wrogowie otrzymają natychmiastowe (+8) obrażenia na początku bitwy. Po użyciu tracisz niezwykle miły list.
 
-Sarah's Running Shoes
-These belonged to an old friend who loved to run.
-Chance to negate half of the damage taken when hit.
+Buty do biegania Sary
+Należały do starej przyjaciółki, która uwielbiała biegać.
+Szansa na zanegowanie połowy obrażeń otrzymanych przy trafieniu.
 
-Pristine Apple
-An apple a day keeps the monsters away. You are thankful to whoever was in the well for giving you this.
-All party members heal (+2) at the start of their turn.
+Nieskazitelne jabłko
+Jedno jabłko z rana zjedzone w porze, sprawia, że strachy kryją się w norze. Jesteś wdzięczny temu, kto był w studni, że ci je dał.
+Wszyscy członkowie drużyny leczą się (+2) na początku swojej tury.
 
-Dead Gwandma
-She's still pretty dead, but her presence inspires you.
-Boosts your max Friendship Points by (+20).
+Martwa Bawcia
+Nadal jest całkiem martwa, ale jej obecność dodaje ci inspiracji.
+Zwiększa maksymalną liczbę punktów przyjaźni o (+20).
 
-Flask of Unlimited Apple Juice
-This magic flask never runs out of pure, savory apple juice. The nectar of the gods.
-During your defense, heal for (+2) for every attack you perfectly block.
+Butelka nieograniczonego soku jabłkowego
+W tej magicznej butelce nigdy nie zabraknie czystego, aromatycznego soku jabłkowego. Nektar bogów.
+Podczas obrony leczy (+2) za każdy doskonale zablokowany atak.
 
-Battle Axe
-This is a really sharp battle axe. I see some dried blood on it if you want a taste.
-Chance to reflect (+2) damage when attacked.
+Topór bojowy
+To naprawdę ostry topór bojowy. Widzę na nim zaschniętą krew, jeśli chcesz posmakować.
+Szansa na odbicie (+2) obrażeń po otrzymaniu ciosu.
 
-The Dodecahedron
-Its shape is so advanced that there would be no physical way to show its true form. Just know that it has twelve faces.
-Your attacks do (+12) damage per status effect on this character.
+Dwunastościan
+Jego kształt jest tak zaawansowany, że nie ma fizycznego sposobu na pokazanie jego prawdziwej formy. Wystarczy wiedzieć, że ma dwanaście ścian.
+Twoje ataki zadają (+12) obrażeń za każdy efekt statusu u tej postaci.
 
-Coin
-Deep scratches and corrosion have eaten away at most of this coin, but it is still quite a relic! Maybe you can make a wish with it.
-Every party member gets (+2) damage per basic attack.
+Moneta
+Głębokie zadrapania i korozja zniszczyły większość tej monety, ale nadal jest to niezły relikt! Może uda ci się za jej pomocą wypowiedzieć życzenie.
+Każdy członek drużyny otrzymuje (+2) obrażenia za każdy atak podstawowy.
 
-Severed Tongue
-A human tongue. Rad!
-While equipped, you can store up to (4) compliments.
+Odcięty język
+Ludzki język. Wspaniale!
+Podczas wyposażenia, możesz przechowywać do (4) komplementów.
 
-Picture
-A picture of [ANIMAL NAME]. It's not as cool anymore.
-It does nothing.
+Zdjęcie
+Zdjęcie [ANIMAL NAME]. Nie jest już takie fajne.
+Nie robi nic.
 
-[BUDDY]'s Breakfast
-The most nutritious and beautifully baked meal made by your best buddy.
-Slightly extends the duration of your block.
+Śniadanie [BUDDY]
+Najbardziej pożywny i pięknie upieczony posiłek przygotowany przez najlepszego kumpla.
+Nieco wydłuża czas trwania bloku.
 
-Spoiled Breakfast
-A gross but intriguing meal full of maggots and broken dreams.
-Gain the 'Stinky' debuff when entering combat.
+Zepsute śniadanie
+Obrzydliwe, ale intrygujące danie pełne robaków i zepsutych marzeń.
+Zyskujesz efekt 'Śmierdzący', gdy wchodzisz do walki.
 
-The Thing
-It is still as gross as you remember. You don't really want to equip it because it makes you feel like a terrible person.
-You start every battle with the 'Emotional Barrier' buff.
+Rzecz
+Nadal jest tak obrzydliwa, jak zapamiętałeś. Nie chcesz jej używać, ponieważ sprawia, że czujesz się jak okropna osoba.
+Każdą bitwę rozpoczynasz ze wzmocnieniem 'Bariera emocjonalna'.
 
 The Very Berry
 This is a Very Berry, last one of its kind. It holds the immense and dangerous power to make anyone who tastes it feel a bit happier.
