@@ -285,7 +285,7 @@ Type DONE once you are finished reading.|Po zakończeniu czytania wpisz GOTOWE.
 Wow! That was so fun! I think.|Wow! To było bardzo fajne! Tak myślę.
 I'm not so sure I get it, but I enjoyed it anyways!|Nie jestem pewien, czy to zrozumiałem, ale i tak mi się podobało!
 As long as I'm playing a game with my buddy, I'll always have a good time.|Dopóki gram w grę z kumplem, zawsze będę się dobrze bawić.
-Well it looks like that was the only other game I could find.|Wygląda na to, że to jedyna inna gra, jaką udało mi się znaleźć.|
+Well it looks like that was the only other game I could find.|Wygląda na to, że to jedyna inna gra, jaką udało mi się znaleźć.
 I don't want you to be bored already...|Nie chcę, żebyś już się nudził…
 I may have one more idea.|Być może mam jeszcze jeden pomysł.
 I know our friendship has just started, but I trust you.|Wiem, że nasza przyjaźń dopiero się zaczęła, ale ufam ci.
@@ -296,8 +296,7 @@ Well I think I can make us new games to play together.|Myślę, że mogę stworz
 Fun ones too!|Te zabawne też!
 The problem is that I don't have access to the OS's development tools.|Problem polega na tym, że nie mam dostępu do narzędzi programistycznych systemu operacyjnego.
 If you can grant me system access, I should be able to make something for us.|Jeśli możesz przyznać mi dostęp do systemu, powinienem być w stanie coś dla nas zrobić.
-"You would just have to type '[BUDDY].system_access = true'|Wystarczy wpisać 
-'[BUDDY].system_access = true'"
+You would just have to type '[BUDDY].system_access = true'|Wystarczy wpisać '[BUDDY].system_access = true'
 .system_access = true|.system_access = true
 .system_access = false|.system_access = false
 true|true
@@ -410,7 +409,7 @@ I'm not sure what that means, but I'll take that as a yes.|Nie jestem pewien, co
 That's not an option. ROCK, PAPER, or SCISSORS?|To nie wchodzi w grę. KAMIEŃ, PAPIER czy NOŻYCE?
 I'm not sure what that means.|Nie jestem pewien, co to oznacza.
 I don't think I'm advanced enough to read thoughts.|Chyba nie jestem na tyle zaawansowany, by czytać w myślach.
-Oh wow, what a coincidence. That's my name too!|Co za zbieg okoliczności. Ja też się tak nazywam!|
+Oh wow, what a coincidence. That's my name too!|Co za zbieg okoliczności. Ja też się tak nazywam!
 i am|ja jestem
 not|nie
 done|gotowe
@@ -420,7 +419,7 @@ you're sure|jesteś pewien
 Word cannot be empty.|Słowo nie może być puste.
 system access granted (ID: '[BUDDY]')|przyznano dostęp do systemu (ID: '[BUDDY]')
 system access denied (ID: '[BUDDY]')|odmowa dostępu do systemu (ID: '[BUDDY]')
-"Oh, I think you meant to say true! haha|Myślę, że chciałeś napisać ""true""! Haha"
+Oh, I think you meant to say true! haha|Myślę, że chciałeś napisać true! Haha
 Command '[INPUT]' is not recognized.|Komenda '[INPUT]' nie jest rozpoznawana.
 Command '[INPUT]' is an unrecognized response.|Komenda '[INPUT]' jest nierozpoznawalną odpowiedzią.
 Type QUIT to leave the game.|Wpisz Wyjście aby opuścić grę.
